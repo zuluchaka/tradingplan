@@ -26,7 +26,7 @@ Those pairs needs to be backtested
 
 ## Entry Signal
 
-- Conditions to enter:
+- Conditions to enter: Pin Bar at previous support/resistance level. Enter on open of next bar after current pin bar
 - Reasons the entry becomes invalid:
 - External conditions to consider (market or news events):
 - Time of the day to Trade or Not to trade
@@ -34,7 +34,7 @@ Those pairs needs to be backtested
 
 ## Stop Loss
 
-
+5 pips below/above Pin Bar - Risk 2% per trade
 
 ## %Risk per Trade
 
@@ -42,10 +42,10 @@ Those pairs needs to be backtested
 
 
 ## Take Profit
-
+next support/resistance zone
 
 ## When to move Stop Loss
 
 ## Exit Signal
 
-
+hit profit target or stop loss or breakeven.
