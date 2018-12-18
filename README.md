@@ -75,7 +75,8 @@ next support/resistance zone
 
 ## Results Analysis
 - Analyse Daily, Weekly, Monthly results
-
+- Rate if the trades meet my expectations BEFORE MOVING TO THE NEXT STEP
+- Possible Improvements to Test Later:
 
 ## Upon Drawdown (Daily, Weekly or Monthly)
 - STOP Trading
