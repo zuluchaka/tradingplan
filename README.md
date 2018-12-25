@@ -1,4 +1,4 @@
-# Pin Bar Trading Plan v0
+# Pin Bar Trading Plan
 
 
 Trading Plan description
@@ -30,7 +30,7 @@ Time of the day to Trade or Not to trade
 MA - used to gauge the direction and strength of the trend - They are dynamic SR Levels. price religiously bounces off certain EMAs during retraces.
 
 - SMA(8)
-- EMA(21) - reacts more quickly to recent price events than SMA
+- EMA(21, 50, 200) - reacts more quickly to recent price events than SMA
 - Fibonacci Retracement: 38.2, 50 and 61.8 are the most important levels for Pin Bar. Trade it in confluence with MA and EMA.
 - Pivot Points
 
@@ -38,6 +38,8 @@ CONFLUENCE Examples:
 - Strong UpTrend + PullBack to 21EMA + Fib 50% Level + Pin Bar 
 - Strong UpTrend + PullBack to 21EMA + S&R level + Bullish Pin Bar
 - UpTrend + PullBack to 50EMA + Fibo 50% Level + S&R Level + Pin Bar
+- DownTrend + PullBack to 50EMA + Fibo 50% Level + S&R Level + Pin Bar
+- DownTrend + Pullback to Pivot + Fibo 78.6% Level + Pin Bar
 
 
 ## Timeframes
@@ -50,7 +52,7 @@ CONFLUENCE Examples:
 - External conditions to consider (market or news events):
   * check https://www.myfxbook.com/forex-economic-calendar  - if any RED flag (imapcting news) about the pair - DO NOT TRADE
   
-- Conditions to enter: 
+- Conditions to enter (REASONS NOT tO TRADE): 
    * Pin Bar at previous support/resistance level. Enter on open of next bar after current pin bar
    * Check daily, weekly, monthly drawdown => lot size calculation (generate SL, TP1,TP2 and TP3)
    * Risk 2% per trade
@@ -58,16 +60,33 @@ CONFLUENCE Examples:
 - Add trade to journal (XLS file in GDrive) 
 - Photo of the trade (BEFORE) in Trello
 
+- Order1: Place BUY/SELL STOP ORDER a small distance (2-3 pips) beyond/above the high/low of the Pin Bar (knowing that the price has moved in the direction of profit before placing the trade).
+- Order2: Place SELL/BUY STOP ORDER a small distance (5 pips) beyond/above the high/low of the Pin Bar (in case of reversal)
+
+- Delete order that is not triggered after price movement (Immediately)
 
 ## Stop Loss
+Place a stop to cover your bases in case my predictions about where the price will go is completely wrong.  
 
 5 pips below/above Pin Bar - Risk 2% per trade
+
+- Once the trade moves 2 or more pips in my favour bring my STOP LOSS to BREAK EVEN
 
 
 
 ## Take Profit
-next support/resistance zone
+The most important thing to do as a trader.
+Not every trade is a winner. 
+- 1. TP at nearest support/resistance zone inside previous bar range (Low Risk)
+- 2. TP at previous bars LOW or HIGH (Medium Risk, risk reward ration: 1:1.5)
+- 3. TP at nearest insterest level outside previous bar range 
 
+Partial Profit:
+- 50% at TP1
+- 75 - 100% profit at TP2 or TP3 (Only do this after moving STOP LOSS to BREAK EVEN)
+
+Trailing STOP LOSS
+Lock in profit to leave trade unattended.
 
 
 ## Exit Signal
