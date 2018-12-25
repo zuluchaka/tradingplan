@@ -19,9 +19,11 @@ Time of the day to Trade or Not to trade
 
 ## Trading Setup
 
+- Market Trend
+
+- Trend Lines: Gauge trend direction, when a trend have exhausted itself and is about to turn the other way. Pin Bar may form during retracement. BEST Pin Bar to trade because they have lot of SPACE around them.
 - Support/Resistance Zone
 
-- Confluence
 
 
 ## Indicators Used for Confluence ONLY
@@ -30,6 +32,13 @@ MA - used to gauge the direction and strength of the trend - They are dynamic SR
 - SMA(8)
 - EMA(21) - reacts more quickly to recent price events than SMA
 - Fibonacci Retracement: 38.2, 50 and 61.8 are the most important levels for Pin Bar. Trade it in confluence with MA and EMA.
+- Pivot Points
+
+CONFLUENCE Examples: 
+- Strong UpTrend + PullBack to 21EMA + Fib 50% Level + Pin Bar 
+- Strong UpTrend + PullBack to 21EMA + S&R level + Bullish Pin Bar
+- UpTrend + PullBack to 50EMA + Fibo 50% Level + S&R Level + Pin Bar
+
 
 ## Timeframes
 
