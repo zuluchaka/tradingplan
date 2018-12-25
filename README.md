@@ -20,14 +20,16 @@ Time of the day to Trade or Not to trade
 ## Trading Setup
 
 - Support/Resistance Zone
-- Pin Bar (Kangaroo Tail)
+
+- Confluence
 
 
-## Indicators Used
+## Indicators Used for Confluence ONLY
+MA - used to gauge the direction and strength of the trend - They are dynamic SR Levels. price religiously bounces off certain EMAs during retraces.
 
-- SMA(4)
-- EMA(50)
-- Bollinger Bands
+- SMA(8)
+- EMA(21) - reacts more quickly to recent price events than SMA
+- Fibonacci Retracement: 38.2, 50 and 61.8 are the most important levels for Pin Bar. Trade it in confluence with MA and EMA.
 
 ## Timeframes
 
