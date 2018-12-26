@@ -19,20 +19,34 @@ Time of the day to Trade or Not to trade
 
 ## Trading Setup
 
-Anatomy:
+Anatomy of VALID Pin Bar:
 - The wick should be at least 2-3 times the length of the body
 - The body should be completely within previous bars range
 - The body should be present towards either the upper or lower extreme of the Pin Bar
 - The wick should stand out when compared to previous bars (with room to the left)
 - Pin Bar will affect immediately following 4-5 bars
 
-- Market Trend
+Identify Market Trend:
+To Gauge strength and direction of a trend, when a trend have exhausted itself and is about to turn the other way.
+We rely on a combination of:
 
-- Trend Lines: Gauge trend direction, when a trend have exhausted itself and is about to turn the other way. Pin Bar may form during retracement. BEST Pin Bar to trade because they have lot of SPACE around them.
+- Trend Lines
+- Moving Averages
 - Support/Resistance Zone
+- Large Round Numbers
 
+
+IF Price > 200EMA THEN UPTREND.
+IF Price < 200EMA THEN DOWNTREND
+
+The BEST Pin Bar to trade  form during retracement at those areas of interest after a sustained move.
+
+- Ideally a Pin Bar should close in the direction of the prevailing trend:
+ * IF UPTREND then BULLISH Pin Bar closes higher than than the open.
+ * IF DOWNTREND then BEARISH Pin Bar closes lower than the open.
+ 
 CONTINUATION PATTERN: If the wick of the Pin Bar is more than 4 times larger than the average trading range of the previous bars.
-
+Always trade with the trend.
 
 ## Indicators Used for Confluence ONLY
 MA - used to gauge the direction and strength of the trend - They are dynamic SR Levels. price religiously bounces off certain EMAs during retraces.
