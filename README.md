@@ -125,7 +125,7 @@ Lock in profit to leave trade unattended.
 - Weekly Max Drawdown: 10% (max 30 weekly trades)
 - Daily Max Drawdown: 2% (max 6 daily trades)
 
-## Results Analysis
+## Results Analysis - Analyse 30 trades clumps
 - Analyse Daily, Weekly, Monthly results
 - Rate if the trades meet my expectations BEFORE MOVING TO THE NEXT STEP
 - Possible Improvements to Test Later:
