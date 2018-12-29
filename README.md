@@ -94,6 +94,20 @@ Place a stop to cover your bases in case my predictions about where the price wi
 
 - Once the trade moves 2 or more pips in my favour bring my STOP LOSS to BREAK EVEN
 
+## Position Size (Trade Size !!!!)
+
+Take the appropriate risk for the trade (Not too High, Not too Low). This is the number of lots (micro, mini or standard)
+
+- Account Risk (Account risk limit per trade): 10% weekly,  
+
+- Trade Risk: 2% per trade (Max 6 Daily trades). - Pips at risk on each trade:difference between ENTRY and STOP LOSS
+
+SL is 30 pips
+
+$ at risk = Pips at risk X Pips Value X Lots traded.     => Lots Traded = $ at risk / (Pips at risk X Pips Value)
+
+Example: Account size : $1k - pips at risk on trade: $20(2%)   and Pips value = 30 pips SL 
+Mini lots Lots traded = $20/(30 x $1) = 0.666 ( 6 mini lots)  
 
 
 ## Take Profit
