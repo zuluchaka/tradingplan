@@ -69,7 +69,7 @@ CONFLUENCE Examples:
 - 4H
 - D1
 
-## Entry Signal
+## Entry Signal (On PULLBACK ONLY - WAIT FOR IT !!!!)
 
 - External conditions to consider (market or news events):
   * check https://www.myfxbook.com/forex-economic-calendar  - if any RED flag (imapcting news) about the pair - DO NOT TRADE
