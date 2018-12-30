@@ -1,4 +1,4 @@
-# Pin Bar Trading Plan
+# My Pin Bar Trading Plan
 
 
 Trading Plan description
@@ -19,14 +19,20 @@ Time of the day to Trade or Not to trade
 
 ## Trading Setup
 
-Anatomy of VALID Pin Bar:
+### Trading Systems (patterns)
+
+- Pin Bar
+
+### Anatomy of VALID Pin Bar:
 - The wick should be at least 2-3 times the length of the body
 - The body should be completely within previous bars range
 - The body should be present towards either the upper or lower extreme of the Pin Bar
 - The wick should stand out when compared to previous bars (with room to the left)
 - Pin Bar will affect immediately following 4-5 bars
 
-Identify Market Trend: (Switch to LINE CHART instead of candlestick to draw Support & Resistance Zone
+### Identify Market Trend: 
+
+Switch to LINE CHART instead of candlestick to draw Support & Resistance Zone
 To Gauge strength and direction of a trend, when a trend have exhausted itself and is about to turn the other way.
 We rely on a combination of:
 
@@ -45,7 +51,8 @@ The BEST Pin Bar to trade  form during retracement at those areas of interest af
  * IF UPTREND then BULLISH Pin Bar closes higher than than the open.
  * IF DOWNTREND then BEARISH Pin Bar closes lower than the open.
  
-CONTINUATION PATTERN: If the wick of the Pin Bar is more than 4 times larger than the average trading range of the previous bars.
+### CONTINUATION PATTERN: 
+If the wick of the Pin Bar is more than 4 times larger than the average trading range of the previous bars.
 Always trade with the trend.
 
 ## Indicators Used for Confluence ONLY
