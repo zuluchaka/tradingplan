@@ -119,7 +119,9 @@ Example:
 - Pips value = 25 pips SL 
 Pair: EURUSD
 
-Lot traded = $30/(25 x $1) = 1.2   
+Lot traded = $30/(25 x $1) = 1.2   => Take:
+- 1 trade with lot 1.2 
+- 3 trades with 0.4 lot size each
 
 USE : https://www.myfxbook.com/forex-calculators/position-size 
 
