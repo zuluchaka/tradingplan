@@ -101,7 +101,7 @@ Place a stop to cover your bases in case my predictions about where the price wi
 
 - Once the trade moves 2 or more pips in my favour bring my STOP LOSS to BREAK EVEN
 
-## Position Size (Trade Size !!!!)
+## Position Size (Trade Size !!!!) - 
 
 Take the appropriate risk for the trade (Not too High, Not too Low). This is the number of lots (micro, mini or standard)
 
@@ -113,9 +113,15 @@ SL is 30 pips
 
 $ at risk = Pips at risk X Pips Value X Lots traded.     => Lots Traded = $ at risk / (Pips at risk X Pips Value)
 
-Example: Account size : $1k - pips at risk on trade: $20(2%)   and Pips value = 30 pips SL 
-Mini lots Lots traded = $20/(30 x $1) = 0.666 ( 6 mini lots)  
+Example: 
+- Account size : $1k  ( account in USD)
+- Pips at risk on trade: $30(3%)   
+- Pips value = 25 pips SL 
+Pair: EURUSD
 
+Lot traded = $30/(25 x $1) = 1.2   
+
+USE : https://www.myfxbook.com/forex-calculators/position-size 
 
 ## Take Profit
 The most important thing to do as a trader.
