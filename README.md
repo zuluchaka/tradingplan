@@ -81,13 +81,13 @@ CONFLUENCE Examples:
 - External conditions to consider (market or news events):
   * check https://www.myfxbook.com/forex-economic-calendar  - if any RED flag (imapcting news) about the pair - DO NOT TRADE
   
-- Conditions to enter (REASONS NOT tO TRADE): 
+- Conditions to enter (REASONS NOT to TRADE): 
    * Pin Bar at previous support/resistance level. Enter on open of next bar after current pin bar
    * Check daily, weekly, monthly drawdown => lot size calculation (generate SL, TP1,TP2 and TP3)
    * Risk 2% per trade
    * Minimum Risk/Reward ration 3:1
-- Add trade to journal (XLS file in GDrive) 
-- Photo of the trade (BEFORE) in Trello
+- Add new trade to journal : https://drive.google.com/drive/folders/1DYp9zuLJZ5bxZBdvmD7DJhnc7vrzpv3G?ogsrc=32 
+- Photo of the trade (BEFORE) in Trello: https://trello.com/b/Jj6QDSv2/trading-journal-2018
 
 - Order1: Place BUY/SELL STOP ORDER a small distance (2-3 pips) beyond/above the high/low of the Pin Bar (knowing that the price has moved in the direction of profit before placing the trade).
 - Order2: Place SELL/BUY STOP ORDER a small distance (5 pips) beyond/above the high/low of the Pin Bar (in case of reversal)
@@ -145,8 +145,8 @@ Lock in profit to leave trade unattended.
 - Zone Exit (hit profit target or stop loss or breakeven).
 - 3-Bar Exit
 - Trailing Stop Loss (stop loss to breakeven)
-- Photo of the trade (AFTER) in Trello
-- Update trade in Journal (XLS file in GDrive)
+- Photo of the trade (AFTER) in Trello: https://trello.com/b/Jj6QDSv2/trading-journal-2018
+- Update trade in Journal (https://drive.google.com/drive/folders/1DYp9zuLJZ5bxZBdvmD7DJhnc7vrzpv3G?ogsrc=32)
 
 ## Metadata
 
