@@ -1,11 +1,10 @@
 # My Pin Bar Trading Plan
 
-
 Trading Plan description
 
 
 ## currency pairs
-Those 5 pairs needs to be backtested
+Those 5 pairs should be backtested
 - EURUSD
 - USDJPY
 - GBPUSD
