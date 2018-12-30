@@ -93,6 +93,10 @@ CONFLUENCE Examples:
 
 - Delete order that is not triggered after price movement (Immediately)
 
+## Trade Management 
+
+Upon +10 pips in profit => Move STOP LOSS to breakeven
+
 ## Stop Loss
 Place a stop to cover your bases in case my predictions about where the price will go is completely wrong.  
 
