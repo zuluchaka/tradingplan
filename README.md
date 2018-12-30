@@ -21,7 +21,7 @@ Time of the day to Trade or Not to trade
 
 ### Trading Systems (patterns)
 
-- Pin Bar
+- Pin Bar (Kangaroo Tail)
 
 ### Anatomy of VALID Pin Bar:
 - The wick should be at least 2-3 times the length of the body
