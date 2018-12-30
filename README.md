@@ -26,7 +26,7 @@ Anatomy of VALID Pin Bar:
 - The wick should stand out when compared to previous bars (with room to the left)
 - Pin Bar will affect immediately following 4-5 bars
 
-Identify Market Trend:
+Identify Market Trend: (Switch to LINE CHART instead of candlestick to draw Support & Resistance Zone
 To Gauge strength and direction of a trend, when a trend have exhausted itself and is about to turn the other way.
 We rely on a combination of:
 
@@ -144,7 +144,7 @@ Lock in profit to leave trade unattended.
 - Rate if the trades meet my expectations BEFORE MOVING TO THE NEXT STEP
 - Possible Improvements to Test Later:
 
-## Upon Drawdown (Daily, Weekly or Monthly)
+## Upon Drawdown (Daily, Weekly or Monthly) - Consecutive losing trades
 - STOP Trading
 - BackTest the system
 - Reevaluate my trading statement
