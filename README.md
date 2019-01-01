@@ -10,11 +10,12 @@ Those 5 pairs should be backtested
 - GBPUSD
 - GBPJPY
 - XAUUSD
+- US30
 
 ## Trading sessions
 Time of the day to Trade or Not to trade
-- Asian session: Every Morning from 5h30 to 6h30 (1H)
-- Euro + North America: Every day at 13h30 (30 min)
+- Asian session: Sunday at 23:00 (1H Analysis) - From Monday to Friday: 5h30 (1H) 
+- Euro + North America: Every day at 13h30-14h (30 min)
 
 ## Trading Setup
 
@@ -72,6 +73,7 @@ CONFLUENCE Examples:
 
 ## Timeframes
 
+- 1H
 - 4H
 - D1
 
@@ -88,6 +90,8 @@ CONFLUENCE Examples:
 - Add new trade to journal : https://drive.google.com/drive/folders/1DYp9zuLJZ5bxZBdvmD7DJhnc7vrzpv3G?ogsrc=32 
 - Photo of the trade (BEFORE) in Trello: https://trello.com/b/Jj6QDSv2/trading-journal-2018
 
+- Check Swissquote PinBar Indicator visual (if any)
+
 - Order1: Place BUY/SELL STOP ORDER a small distance (2-3 pips) beyond/above the high/low of the Pin Bar (knowing that the price has moved in the direction of profit before placing the trade).
 - Order2: Place SELL/BUY STOP ORDER a small distance (5 pips) beyond/above the high/low of the Pin Bar (in case of reversal)
 
@@ -95,7 +99,7 @@ CONFLUENCE Examples:
 
 ## Trade Management 
 
-Upon +10 pips in profit => Move STOP LOSS to breakeven
+Upon +10 pips in profit => Move STOP LOSS to breakeven and repeat it every 20 pips
 
 ## Stop Loss
 Place a stop to cover your bases in case my predictions about where the price will go is completely wrong.  
