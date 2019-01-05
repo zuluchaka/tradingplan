@@ -29,6 +29,7 @@ Time of the day to Trade or Not to trade
 - The body should be present towards either the upper or lower extreme of the Pin Bar
 - The wick should stand out when compared to previous bars (with room to the left)
 - Pin Bar will affect immediately following 4-5 bars
+- Pin Bar should print at a Support and Resistance (Candle rejection: The wick touches the support/resistance but the body don't)
 
 ### Identify Market Trend: 
 
@@ -51,6 +52,11 @@ The BEST Pin Bar to trade  form during retracement at those areas of interest af
  * IF UPTREND then BULLISH Pin Bar closes higher than than the open.
  * IF DOWNTREND then BEARISH Pin Bar closes lower than the open.
  
+ look for DOUBLE BOTTOM : MAJOR SUPPORT + MAJOR SUPPORT TRENDLINE
+ look for DOUBLE TOP: MAJOR RESISTANCE + MAJOR RESISTANCE TRENDLINE
+ 
+ ALWAYS TRADE NEAR AN AREA OF SUPPORT / RESISTANCE
+ 
 ### CONTINUATION PATTERN: 
 If the wick of the Pin Bar is more than 4 times larger than the average trading range of the previous bars.
 Always trade with the trend.
@@ -62,6 +68,10 @@ MA - used to gauge the direction and strength of the trend - They are dynamic SR
 - EMA(21, 50, 200) - reacts more quickly to recent price events than SMA
 - Fibonacci Retracement: 38.2, 50 and 61.8 are the most important levels for Pin Bar. Trade it in confluence with MA and EMA.
 - Pivot Points
+- Stochastic (Correlated to SUPPORT/RESISTANCE) DAILY Chart: 
+  * WE TRADE between (0 - 20) - OVERBOUGHT Market (near RESISTANCE)
+  * WE TRADE between (80 - 100) - OVERSOLD Market (near SUPPORT)
+  * Otherwise WE DONT TRADE
 
 CONFLUENCE Examples: 
 - Strong UpTrend + PullBack to 21EMA + Fib 50% Level + Pin Bar 
