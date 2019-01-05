@@ -36,9 +36,9 @@ Switch to LINE CHART instead of candlestick to draw Support & Resistance Zone
 To Gauge strength and direction of a trend, when a trend have exhausted itself and is about to turn the other way.
 We rely on a combination of:
 
-- Trend Lines (DRAW TRENDLINE ON WEEKLY TIMEFRAME, touching at least 2 wicks) !!!!
+- Trend Lines (DRAW TRENDLINE ON WEEKLY TIMEFRAME, ONLY TOUCHING AT LEAST 2 wicks) - MORE POWERFUL TRENDLINES (Reversals)
 - Moving Averages
-- Support/Resistance Zone
+- Support/Resistance Zone (DRAW MAJOR SUPPORT , MAJOR RESISTANCE and INTRA S&R on the DAILY CHART first)
 - Large Round Numbers
 
 
