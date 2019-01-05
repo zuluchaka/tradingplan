@@ -148,7 +148,7 @@ Not every trade is a winner.
 - 1. TP at nearest (FAKE, easily broken - 4H CHART) support/resistance zone inside previous bar range (Low Risk) - DRAW it GREEN
 - 2. TP at previous bars LOW or HIGH (Medium Risk, risk reward ration: 1:1.5)
 - 3. TP at nearest insterest level outside previous bar range 
-- 4. Parabolic SAR: Hold Trade in Profit until the DOT of the Parabolic SAR appear in the reverse direction of the current trend
+- 4. Parabolic SAR (DAILY CHART): Hold Trade in Profit until the DOT of the Parabolic SAR appear in the reverse direction of the current trend
 Partial Profit:
 - 50% at TP1
 - 75 - 100% profit at TP2 or TP3 (Only do this after moving STOP LOSS to BREAK EVEN)
