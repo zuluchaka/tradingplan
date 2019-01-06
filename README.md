@@ -117,6 +117,7 @@ Place a stop to cover your bases in case my predictions about where the price wi
 
 5 pips below/above Pin Bar - Risk 2% per trade
 
+- STOP LOSS 15 - 20 pips below/above the previous lowest/highest level reached by previous candlesticks   
 - Once the trade moves 2 or more pips in my favour bring my STOP LOSS to BREAK EVEN
 
 ## Position Size (Trade Size !!!!) - 
