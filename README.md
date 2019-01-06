@@ -97,6 +97,7 @@ CONFLUENCE Examples:
    * Check daily, weekly, monthly drawdown => lot size calculation (generate SL, TP1,TP2 and TP3)
    * Risk 2% per trade
    * Minimum Risk/Reward ration 3:1
+   * ALWAYS WAIT FOR THE PREVIOUS DAILY CANDLE TO CLOSE
 - Add new trade to journal : https://drive.google.com/drive/folders/1DYp9zuLJZ5bxZBdvmD7DJhnc7vrzpv3G?ogsrc=32 
 - Photo of the trade (BEFORE) in Trello: https://trello.com/b/Jj6QDSv2/trading-journal-2018
 
