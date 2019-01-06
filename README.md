@@ -99,7 +99,7 @@ CONFLUENCE Examples:
    * Minimum Risk/Reward ration 3:1
    * ALWAYS WAIT FOR THE PREVIOUS DAILY CANDLE TO CLOSE
 - Add new trade to journal : https://drive.google.com/drive/folders/1DYp9zuLJZ5bxZBdvmD7DJhnc7vrzpv3G?ogsrc=32 
-- Photo of the trade (BEFORE) in Trello: https://trello.com/b/Jj6QDSv2/trading-journal-2018
+- Take a screenshot of the trade at market CLOSE (BEFORE) in Trello: https://trello.com/b/Jj6QDSv2/trading-journal-2018
 
 - Check Swissquote PinBar Indicator visual (if any)
 
@@ -163,7 +163,7 @@ Lock in profit to leave trade unattended.
 - Zone Exit (hit profit target or stop loss or breakeven).
 - 3-Bar Exit
 - Trailing Stop Loss (stop loss to breakeven)
-- Photo of the trade (AFTER) in Trello: https://trello.com/b/Jj6QDSv2/trading-journal-2018
+- Take a screenshot of the trade (AFTER) in Trello: https://trello.com/b/Jj6QDSv2/trading-journal-2018
 - Update trade in Journal (https://drive.google.com/drive/folders/1DYp9zuLJZ5bxZBdvmD7DJhnc7vrzpv3G?ogsrc=32)
 
 ## Metadata
