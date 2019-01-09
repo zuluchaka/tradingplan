@@ -57,6 +57,12 @@ The BEST Pin Bar to trade  form during retracement at those areas of interest af
  
  ALWAYS TRADE NEAR AN AREA OF SUPPORT / RESISTANCE
  
+### Trend Status: 
+- Beginning
+- Ongoing
+- Ending
+
+ 
 ### CONTINUATION PATTERN: 
 If the wick of the Pin Bar is more than 4 times larger than the average trading range of the previous bars.
 Always trade with the trend.
