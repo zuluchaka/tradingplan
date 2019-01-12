@@ -14,10 +14,10 @@ I will spend additional 7h per week for my FOREX trading business
 
 I currently have $1000 available in my trading Accounts:
 - Broker Swissquote: 
-  * Account 622021, Balance - 250 CHF (Week2 - 12/01/19)
-  * Account 622217, Balance - 50 CHF (Week2 - 12/01/19)
-- Broker JAFX
-  * Account 165931, Balance - 200 CHF (Week2 - 12/01/2019)
+  * Account 622021, Balance - 250 CHF (Week2 - 12/01/19) - Leverage 1:100
+  * Account 622217, Balance - 50 CHF (Week2 - 12/01/19)  - Leverage 1:100
+- Broker JAFX 
+  * Account 165931, Balance - 200 CHF (Week2 - 12/01/2019) - Leverage 1:200
 
 ## Education Commitment
 
@@ -26,6 +26,11 @@ I will continue to improve my trading practice by:
 - Watching video lectures explaining how to become a professional Trader
 - Learning by following analysis from famous professional Forex Traders on social networks
 - Learning from Traders in Paid groups of traders sharing analysis and signals
+
+## Trading Journal Content and Review
+
+At the end of each month, I will review my trading journal (provided by Brokers) to determine whether any modifications to my trading plan seem warranted by the results it obtained over the preceding three months.
+
 
 ## currency pairs
 Those 5 pairs should be backtested
@@ -52,19 +57,21 @@ DO NOT trade forex during the hour before and after medium and high priority eco
 
 ### MARKET ANALYSIS - Technical Analysis 
 
-- Trading System: Pin Bar Reversal Candlestick (Kangaroo Tail)
+- Trading System: Bullish/Bearish Pin Bar Reversal Candlestick (Kangaroo Tail)
 
 
 ![Pin Bar](https://forextraininggroup.com/wp-content/uploads/2016/07/Pin-Bar-Structure.png)
 
 
 ### Anatomy of VALID Pin Bar:
-- The wick should be at least 2-3 times the length of the body
+- The long wick should be at least 2-3 times the length of the body of the candlestick
 - The body should be completely within previous bars range
 - The body should be present towards either the upper or lower extreme of the Pin Bar
 - The wick should stand out when compared to previous bars (with room to the left)
 - Pin Bar will affect immediately following 4-5 bars
-- Pin Bar should print at a Support and Resistance (Candle rejection: The wick touches the support/resistance but the body don't)
+- Pin Bar should print at a Support and Resistance (Candle rejection: The wick touches the support/resistance but the body don't) ideally at the end of an impulsive move and may indicate the beginning of a reversal price momentum
+- Pin Bar that appear in direction of the Trend
+- Avoir Pin Bar that doesn't show a price rejection evidence
 
 ### Identify Market Trend: 
 
@@ -133,8 +140,8 @@ CONFLUENCE Examples:
 - External conditions to consider (market or news events):
   * check https://www.myfxbook.com/forex-economic-calendar  - if any RED flag (imapcting news) about the pair - DO NOT TRADE
   
-- Conditions to enter (REASONS NOT to TRADE): 
-   * Pin Bar at previous support/resistance level. Enter on open of next bar after current pin bar
+### Money Management - Conditions to enter (REASONS NOT to TRADE): 
+   * Enter on open of next bar after current pin bar
    * Check daily, weekly, monthly drawdown => lot size calculation (generate SL, TP1,TP2 and TP3)
    * Risk 2% per trade
    * Minimum Risk/Reward ration 3:1
