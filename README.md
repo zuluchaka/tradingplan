@@ -2,6 +2,30 @@
 
 Trading Plan description
 
+## GOAL
+
+My GOAL is to improve my family lifestyle by making an extra $1000 per month from FOREX Trading by growing each account I have by at least 10% per week and becoming a professional retail Trader
+
+## Time commitment
+
+I will spend additional 7h per week for my FOREX trading business
+
+## Funds commitment
+
+I currently have $1000 available in my trading Accounts:
+- Broker Swissquote: 
+  * Account 622021, Balance - 250 CHF (Week2 - 12/01/19)
+  * Account 622217, Balance - 50 CHF (Week2 - 12/01/19)
+- Broker JAFX
+  * Account 165931, Balance - 200 CHF (Week2 - 12/01/2019)
+
+## Education Commitment
+
+I will continue to improve my trading practice by:
+- Reading highly recommended Books on FOREX Trading, 
+- Watching video lectures explaining how to become a professional Trader
+- Learning by following analysis from famous professional Forex Traders on social networks
+- Learning from Traders in Paid groups of traders sharing analysis and signals
 
 ## currency pairs
 Those 5 pairs should be backtested
@@ -22,9 +46,13 @@ DO NOT ENTER TRADES DURING OTHER SESSIONS
 
 ## Trading Setup
 
-### Trading Systems (patterns)
+### MARKET ANALYSIS - Fundamental Analysis
 
-- Pin Bar Reversal Candlestick (Kangaroo Tail)
+DO NOT trade forex during the hour before and after medium and high priority economic data, policymaker speeches and news releases relevant to either currency in a currency pair.
+
+### MARKET ANALYSIS - Technical Analysis 
+
+- Trading System: Pin Bar Reversal Candlestick (Kangaroo Tail)
 
 
 ![Pin Bar](https://forextraininggroup.com/wp-content/uploads/2016/07/Pin-Bar-Structure.png)
