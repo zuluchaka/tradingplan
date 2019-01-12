@@ -13,15 +13,22 @@ Those 5 pairs should be backtested
 - US30
 
 ## Trading sessions
-Time of the day to Trade or Not to trade
+Time of the day to Trade: 
+
 - Asian session: Sunday at 23:00 (1H Analysis) - From Monday to Friday: 5h30 (1H) 
 - Euro + North America: Every day at 13h30-14h (30 min)
+
+DO NOT ENTER TRADES DURING OTHER SESSIONS
 
 ## Trading Setup
 
 ### Trading Systems (patterns)
 
-- Pin Bar (Kangaroo Tail)
+- Pin Bar Reversal Candlestick (Kangaroo Tail)
+
+
+![Pin Bar](https://forextraininggroup.com/wp-content/uploads/2016/07/Pin-Bar-Structure.png)
+
 
 ### Anatomy of VALID Pin Bar:
 - The wick should be at least 2-3 times the length of the body
