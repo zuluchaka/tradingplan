@@ -232,3 +232,22 @@ Lock in profit to leave trade unattended.
 - Reevaluate my trading statement
 - Decide if my trading system still work
 - Review my psychology when trading (Positive Mindset, Be Fit to Trade)
+
+## Losses
+
+### Dumb Losses / Unforced Errors
+- Adding to a loser trade
+- Breaking the rules
+- Taking Too much risk
+- Widening a stop loss
+- Moving a stop loss to break-even too noon
+
+### Good Losses
+- Following the rules
+- Steeting a STOP LOSS
+- Sizing correctly
+- Taking the LOSS
+- Moving ON
+
+
+
