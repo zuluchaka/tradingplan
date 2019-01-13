@@ -174,7 +174,7 @@ Take the appropriate risk for the trade (Not too High, Not too Low). This is the
 
 - Account Risk (Account risk limit per trade): 10% weekly,  
 
-- Trade Risk: 2% per trade (Max 6 Daily trades). - Pips at risk on each trade:difference between ENTRY and STOP LOSS
+- Trade Risk: 3% per trade (Max 6 Daily trades). - Pips at risk on each trade:difference between ENTRY and STOP LOSS
 
 SL is 30 pips
 
