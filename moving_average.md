@@ -159,7 +159,7 @@ Notice that after the last long opportunity, the Cable price decreases through t
 
 In all the examples above we used Simple Moving Averages, because it is the one most commonly used in Forex trading. Nevertheless the trading strategies above would work the same way with different moving averages – Exponential, Volume Weighted, etc.  
 
-Conclusion 
+## Conclusion 
 The Moving Average indicator is one of the most important technical analysis tools in Forex. 
 There are different types of Moving Averages based on the criteria for averaging periods. Some of the most widely used Moving Averages are: 
 Simple Moving Average (SMA): It is a simple arithmetic mean of the selected periods.  
