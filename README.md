@@ -131,9 +131,7 @@ CONFLUENCE Examples:
 
 ## Timeframes
 
-- 1H
-- 4H
-- D1
+- Daily
 
 ## Entry Signal (On PULLBACK ONLY - WAIT FOR IT !!!!)
 
