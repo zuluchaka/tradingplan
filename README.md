@@ -70,30 +70,21 @@ DO NOT trade forex during the hour before and after medium and high priority eco
 - The wick should stand out when compared to previous bars (with room to the left)
 - Pin Bar will affect immediately following 4-5 bars
 - Pin Bar should print at a Support and Resistance (Candle rejection: The wick touches the support/resistance but the body don't) ideally at the end of an impulsive move and may indicate the beginning of a reversal price momentum
-- Pin Bar that appear in direction of the Trend
+- Pin Bar that appear/close in direction of the Trend
+ * IF UPTREND then BULLISH Pin Bar closes higher than than the open.
+ * IF DOWNTREND then BEARISH Pin Bar closes lower than the open.
+
 - Avoir Pin Bar that doesn't show a price rejection evidence
 
 ### Identify Market Trend: 
 
-Switch to LINE CHART instead of candlestick to draw Support & Resistance Zone
-To Gauge strength and direction of a trend, when a trend have exhausted itself and is about to turn the other way.
-We rely on a combination of:
+- Switch to WEEKLY Chart: Draw Trendlines only touching at least 2 wicks (parallel)
 
-- Trend Lines (DRAW TRENDLINE ON WEEKLY TIMEFRAME, ONLY TOUCHING AT LEAST 2 wicks) - MORE POWERFUL TRENDLINES (Reversals)
-- Moving Averages
-- Support/Resistance Zone (DRAW MAJOR SUPPORT , MAJOR RESISTANCE and INTRA S&R on the DAILY CHART first)
-- Large Round Numbers
+- Switch to DAILY LINE CHART: Draw  Major & Minor (INTRA) Support & Resistance Zones
 
+ * IF current Price > 200 EMA THEN UPTREND. => Look for a BUY
+ * IF current Price < 200 EMA THEN DOWNTREND => Look for a SELL
 
-IF Price > 200EMA THEN UPTREND.
-IF Price < 200EMA THEN DOWNTREND
-
-The BEST Pin Bar to trade  form during retracement at those areas of interest after a sustained move.
-
-- Ideally a Pin Bar should close in the direction of the prevailing trend:
- * IF UPTREND then BULLISH Pin Bar closes higher than than the open.
- * IF DOWNTREND then BEARISH Pin Bar closes lower than the open.
- 
  look for DOUBLE BOTTOM : MAJOR SUPPORT + MAJOR SUPPORT TRENDLINE
  look for DOUBLE TOP: MAJOR RESISTANCE + MAJOR RESISTANCE TRENDLINE
  
@@ -106,14 +97,20 @@ The BEST Pin Bar to trade  form during retracement at those areas of interest af
 
  
 ### CONTINUATION PATTERN: 
-If the wick of the Pin Bar is more than 4 times larger than the average trading range of the previous bars.
-Always trade with the trend.
+Ignore PinBar formed against the current trend
 
-## Indicators Used for Confluence ONLY
-MA - used to gauge the direction and strength of the trend - They are dynamic SR Levels. price religiously bounces off certain EMAs during retraces.
+## Indicators Used for Confluence (Focus on QUALITY SETUPS)
+Factors of Confluence:
+- The Trend
+- Support/Resistance Level, Supply & Demand Zones
+- Moving Averages
+- Fibonacci Retracements
+- Trendlines
 
-- SMA(8)
-- EMA(21, 50, 200) - reacts more quickly to recent price events than SMA
+Moving Averages are used to gauge the direction and strength of the trend - They are dynamic SR Levels. price religiously bounces off certain EMAs during retraces.
+
+- SMA(8, 21, 89)
+- EMA(50, 200) - reacts more quickly to recent price events than SMA
 - Fibonacci Retracement: 38.2, 50 and 61.8 are the most important levels for Pin Bar. Trade it in confluence with MA and EMA.
 - Pivot Points
 - Stochastic (Correlated to SUPPORT/RESISTANCE) DAILY Chart: 
@@ -121,7 +118,7 @@ MA - used to gauge the direction and strength of the trend - They are dynamic SR
   * WE TRADE between (80 - 100) - OVERSOLD Market (near SUPPORT)
   * Otherwise WE DONT TRADE
 
-CONFLUENCE Examples: 
+### CONFLUENCE Examples: 
 - Strong UpTrend + PullBack to 21EMA + Fib 50% Level + Pin Bar 
 - Strong UpTrend + PullBack to 21EMA + S&R level + Bullish Pin Bar
 - UpTrend + PullBack to 50EMA + Fibo 50% Level + S&R Level + Pin Bar
@@ -137,11 +134,20 @@ CONFLUENCE Examples:
 
 - External conditions to consider (market or news events):
   * check https://www.myfxbook.com/forex-economic-calendar  - if any RED flag (imapcting news) about the pair - DO NOT TRADE
-  
+### Aggressive Entry Option: 
+- Immediately after the Pin Bar closes, without waiting for a confirmation - we catch move at the beginning based on :
+   * The Trend: UPTREND / DOWNTREND
+   * Pin Bar formed at a Support / Resistance Level
+   * Pin Bar formed after a retracement
+   
+### Conservative Entry Option: 
+- Enter after 50% of  the range bar retracement - We decrease our risk and increase our reward (there is a Risk of missing the ENTRY)
+
+
 ### Money Management - Conditions to enter (REASONS NOT to TRADE): 
    * Enter on open of next bar after current pin bar
    * Check daily, weekly, monthly drawdown => lot size calculation (generate SL, TP1,TP2 and TP3)
-   * Risk 2% per trade
+   * Risk 3% of account balance per trade
    * Minimum Risk/Reward ration 3:1
    * ALWAYS WAIT FOR THE PREVIOUS DAILY CANDLE TO CLOSE
 - Add new trade to journal : https://drive.google.com/drive/folders/1DYp9zuLJZ5bxZBdvmD7DJhnc7vrzpv3G?ogsrc=32 
