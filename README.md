@@ -4,7 +4,7 @@ Trading Plan description
 
 ## GOAL
 
-My GOAL is to improve my family lifestyle by making an extra $1000 per month from FOREX Trading by growing each account I have by at least 10% per week and becoming a professional retail Trader
+My GOAL is to improve my family lifestyle by making an extra 1000 CHF per month from FOREX Trading by growing each account I have by at least 10% per week and becoming a professional retail Trader
 
 ## Time commitment
 
@@ -12,12 +12,12 @@ I will spend additional 7h per week for my FOREX trading business
 
 ## Funds commitment
 
-I currently have $1000 available in my trading Accounts:
+I currently have 1000 CHF available in my trading Accounts:
 - Broker Swissquote: 
-  * Account 622021, Balance - 250 CHF (Week2 - 12/01/19) - Leverage 1:100
-  * Account 622217, Balance - 50 CHF (Week2 - 12/01/19)  - Leverage 1:100
+  * Account 622021, Leverage 1:100
+  * Account 622217, Leverage 1:100
 - Broker JAFX 
-  * Account 165931, Balance - 200 CHF (Week2 - 12/01/2019) - Leverage 1:200
+  * Account 165931, Leverage 1:200 (to reduce to 1:50)
 
 ## Education Commitment
 
