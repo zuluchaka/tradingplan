@@ -106,6 +106,7 @@ Factors of Confluence:
 - Moving Averages
 - Fibonacci Retracements
 - Trendlines
+- Bolinger Bands : If price are rejected (PinBar) from the major levels and from the Bands it is a confirmation
 
 Moving Averages are used to gauge the direction and strength of the trend - They are dynamic SR Levels. price religiously bounces off certain EMAs during retraces.
 
