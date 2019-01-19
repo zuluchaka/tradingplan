@@ -63,13 +63,15 @@ DO NOT trade forex during the hour before and after medium and high priority eco
 ![Pin Bar](https://forextraininggroup.com/wp-content/uploads/2016/07/Pin-Bar-Structure.png)
 
 
-### Anatomy of VALID Pin Bar:
+### Validity Pin Bar:
 - The long wick should be at least 2-3 times the length of the body of the candlestick
-- The body should be completely within previous bars range
+- The body should be larger than previous bars range
 - The body should be present towards either the upper or lower extreme of the Pin Bar
 - The wick should stand out when compared to previous bars (with room to the left)
 - Pin Bar will affect immediately following 4-5 bars
-- Pin Bar should print at a Support and Resistance (Candle rejection: The wick touches the support/resistance but the body don't) ideally at the end of an impulsive move and may indicate the beginning of a reversal price momentum
+- Pin Bar should print at a Support and Resistance:
+ * Candle rejection: The wick touches the support/resistance but the body don't
+ * Ideally at the end of an impulsive move and may indicate the beginning of a reversal price momentum
 - Pin Bar that appear/close in direction of the Trend
  * IF UPTREND then BULLISH Pin Bar closes higher than than the open.
  * IF DOWNTREND then BEARISH Pin Bar closes lower than the open.
@@ -97,16 +99,20 @@ DO NOT trade forex during the hour before and after medium and high priority eco
 
  
 ### CONTINUATION PATTERN: 
-Ignore PinBar formed against the current trend
+- Ignore PinBar formed against the current trend
+- Ignore PinBar at least 4 times larger than previous candlesticks range
 
 ## Indicators Used for Confluence (Focus on QUALITY SETUPS)
 Factors of Confluence:
 - The Trend
 - Support/Resistance Level, Supply & Demand Zones
 - Moving Averages
-- Fibonacci Retracements
-- Trendlines
+- Fibonacci Retracements (Based on Top and Bottom of most recent TREND)
+- Trendlines: After drawing it , wait for price to retrace back to it
 - Bolinger Bands : If price are rejected (PinBar) from the major levels and from the Bands it is a confirmation
+- Large Round Numbers: Pay attention to large round numbers closed to a Pin Bar (historically)
+- Pivot Points (PP): 
+- Check Swissquote PinBar Indicator visual (if any)
 
 Moving Averages are used to gauge the direction and strength of the trend - They are dynamic SR Levels. price religiously bounces off certain EMAs during retraces.
 
@@ -129,51 +135,60 @@ Moving Averages are used to gauge the direction and strength of the trend - They
 
 ## Timeframes
 
+- 4H
 - Daily
 
 ## Entry Signal (On PULLBACK ONLY - WAIT FOR IT !!!!)
 
-- External conditions to consider (market or news events):
+!!! DO NOT ENTER 'MARKET EXECUTION' ORDERS !!!!
+
+!!! DO NOT ENTER TRADES FROM MOBILE DURING THE DAY !!!!
+
+### External conditions to consider (market or news events):
   * check https://www.myfxbook.com/forex-economic-calendar  - if any RED flag (imapcting news) about the pair - DO NOT TRADE
-### Aggressive Entry Option: 
+  
+### Method1: Aggressive Entry Option: 
 - Immediately after the Pin Bar closes, without waiting for a confirmation - we catch move at the beginning based on :
    * The Trend: UPTREND / DOWNTREND
    * Pin Bar formed at a Support / Resistance Level
    * Pin Bar formed after a retracement
    
-### Conservative Entry Option: 
+### Method2: Enter ON STOP - Entry Option:
+- STOP Order1: Place BUY/SELL STOP ORDER a small distance (2-3 pips) beyond/above the high/low of the Pin Bar (knowing that the price has moved in the direction of profit before placing the trade).
+- STOP Order2: Place SELL/BUY STOP ORDER a small distance (2-3 pips) beyond/above the high/low of the Pin Bar (in case of reversal)
+- Delete STOP order that is not triggered after price movement (Immediately)
+
+### Method3: 50% Pin Bar Retrace - Conservative Entry Option: 
 - Enter after 50% of  the range bar retracement - We decrease our risk and increase our reward (there is a Risk of missing the ENTRY)
+- BUY/SELL LIMIT ORDER at 50% Pin Bar Retracement (May miss some ENTRY opportunities if price don't retrace)
 
 
 ### Money Management - Conditions to enter (REASONS NOT to TRADE): 
    * Enter on open of next bar after current pin bar
    * Check daily, weekly, monthly drawdown => lot size calculation (generate SL, TP1,TP2 and TP3)
    * Risk 3% of account balance per trade
-   * Minimum Risk/Reward ration 3:1
+   * Minimum Risk/Reward ration 1:3 or greater
    * ALWAYS WAIT FOR THE PREVIOUS DAILY CANDLE TO CLOSE
 - Add new trade to journal : https://drive.google.com/drive/folders/1DYp9zuLJZ5bxZBdvmD7DJhnc7vrzpv3G?ogsrc=32 
 - Take a screenshot of the trade at market CLOSE (BEFORE) in Trello: https://trello.com/b/Jj6QDSv2/trading-journal-2018
 
-- Check Swissquote PinBar Indicator visual (if any)
 
-- Order1: Place BUY/SELL STOP ORDER a small distance (2-3 pips) beyond/above the high/low of the Pin Bar (knowing that the price has moved in the direction of profit before placing the trade).
-- Order2: Place SELL/BUY STOP ORDER a small distance (5 pips) beyond/above the high/low of the Pin Bar (in case of reversal)
 
-- Delete order that is not triggered after price movement (Immediately)
+
 
 ## Trade Management 
 
 Upon +10 pips in profit => Move STOP LOSS to breakeven and repeat it every 20 pips
 
-## Stop Loss
+## STOP LOSS
 Place a stop to cover your bases in case my predictions about where the price will go is completely wrong.  
 
-5 pips below/above Pin Bar - Risk 2% per trade
+### Method1: At 50% of Pin Bar Range
+### Method2: 2-3 pips Beyond Pin Bar High/Low (Check impact on lot size, may need to reduce it)
 
-- STOP LOSS 15 - 20 pips below/above the previous lowest/highest level reached by previous candlesticks   
-- Once the trade moves 2 or more pips in my favour bring my STOP LOSS to BREAK EVEN
+Once the trade moves 2 or more pips in my favour bring my STOP LOSS to BREAK EVEN
 
-## Position Size (Trade Size !!!!) - 
+## POSITION SIZE (Trade Size !!!!) - 
 
 Take the appropriate risk for the trade (Not too High, Not too Low). This is the number of lots (micro, mini or standard)
 
@@ -197,26 +212,26 @@ Lot traded = $30/(25 x $1) = 1.2   => Take:
 
 USE : https://www.myfxbook.com/forex-calculators/position-size 
 
-## Take Profit
-The most important thing to do as a trader.
-Not every trade is a winner. 
-- 1. TP at nearest (FAKE, easily broken - 4H CHART) support/resistance zone inside previous bar range (Low Risk) - DRAW it GREEN
-- 2. TP at previous bars LOW or HIGH (Medium Risk, risk reward ration: 1:1.5)
-- 3. TP at nearest insterest level outside previous bar range 
-- 4. Parabolic SAR (DAILY CHART): Hold Trade in Profit until the DOT of the Parabolic SAR appear in the reverse direction of the current trend
-Partial Profit:
-- 50% at TP1
-- 75 - 100% profit at TP2 or TP3 (Only do this after moving STOP LOSS to BREAK EVEN)
+## TAKE PROFIT
+The most important thing to do as a trader. Not every trade is a winner. 
+### Method1. TP at nearest Support/resistance zone inside previous bar range (Low Risk) - (FAKE, easily broken. too early)
+### Method2. TP at previous bars LOW or HIGH (Medium Risk, risk reward ration: should be minimum 1:1.5)
+### Method3. TP at nearest insterest level outside previous bar range 
+### Method4. Parabolic SAR: Hold Trade in Profit until the DOT of the Parabolic SAR appear in the reverse direction of the current trend
 
-Trailing STOP LOSS
-Lock in profit to leave trade unattended.
+## PARTIAL PROFIT:
+- Take 50% of profit at TP1
+- Take 75 - 100% profit at TP2 or TP3 (Only do this after moving STOP LOSS to BREAK EVEN)
+
+## Trailing STOP LOSS
 
 
-## Exit Signal
+
+## EXIT Signal
 
 - Zone Exit (hit profit target or stop loss or breakeven).
 - 3-Bar Exit
-- Trailing Stop Loss (stop loss to breakeven)
+- Trailing Stop Loss (stop loss to breakeven, Lock in profit to leave trade unattended)
 - Take a screenshot of the trade (AFTER) in Trello: https://trello.com/b/Jj6QDSv2/trading-journal-2018
 - Update trade in Journal (https://drive.google.com/drive/folders/1DYp9zuLJZ5bxZBdvmD7DJhnc7vrzpv3G?ogsrc=32)
 
@@ -225,6 +240,9 @@ Lock in profit to leave trade unattended.
 - Monthly Max Drawndown: 40% (max 120 monthly trades)
 - Weekly Max Drawdown: 10% (max 30 weekly trades)
 - Daily Max Drawdown: 2% (max 6 daily trades)
+
+Example: Account 1000 CHF
+Monthly Max Drawdown: 400 CHF, Weekly Max Drawdown: 100 CHF, Daily Max Drawdown: 20 CHF
 
 ## Results Analysis - Analyse 30 trades clumps
 - Analyse Daily, Weekly, Monthly results
