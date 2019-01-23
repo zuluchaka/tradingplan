@@ -41,7 +41,7 @@ Those 5 pairs should be backtested
 - XAUUSD
 - US30
 
-## 1. Trading sessions (IDENTIFICATION)
+## Trading sessions 
 Time of the day to Trade: 
 
 - Asian session: Sunday at 23:00 (1H Analysis) - From Monday to Friday: 5h30 (1H) 
@@ -49,7 +49,7 @@ Time of the day to Trade:
 
 DO NOT ENTER TRADES DURING OTHER SESSIONS
 
-## Trading Setup
+## 1. Trading Setup (IDENTIFICATION)
 
 ### MARKET ANALYSIS - Fundamental Analysis
 
