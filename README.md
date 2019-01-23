@@ -144,8 +144,43 @@ Moving Averages are used to gauge the direction and strength of the trend - They
 
 !!! DO NOT ENTER TRADES FROM MOBILE DURING THE DAY !!!!
 
-### External conditions to consider (market or news events):
-  * check https://www.myfxbook.com/forex-economic-calendar  - if any RED flag (imapcting news) about the pair - DO NOT TRADE
+### Fundamental ANALYSIS (FAL1)
+  * check Economic Calendars News https://www.myfxbook.com/forex-economic-calendar  
+      - if any RED flag (imapcting news) about the pair - DO NOT TRADE
+  * Political news and Events 
+  * Natural Events
+
+### Logistics ANALYSIS (FAL2)
+  * Logistics
+  * Playbook analysis
+    - Market weekly/daily view records = What market has been doing
+  * Currency Cycles Records
+    - Tracking currency cycles, strength or weaknesses every 5 min, 30min, 1H, 4H (For selected currencies)
+  * Trading Records
+    - Track every trade (Demo, Live): all information about the trade including why I got IN and OUT to understand its performance 
+  * Trading Plan (To FOLLOW)
+    - To understand my performance as a Trader
+  
+### Currency Strength Analysis (CSA)
+  * Single Currencies analysis
+  * Strength Vs Weakness
+  * Optimal Pairing
+  * Currency Cycles
+  
+### Volume Price Analysis (VPA)
+  * Price can be manipulated (We need to make the difference : Manipulation of price Vs real Volume)
+  * Volume cannot be hidden
+  * Volume of Transactions move Price
+  * BIG Money tracks Volume
+  
+### Volume Spread Analysis (VSA)
+
+  * Highly Sophisticated Volume Analysis
+  * More than 400 nuances of Volume Behaviour
+  * For Professional traders
+  * Requires dedicated learning and expensive tools
+
+### TPO
   
 ### Method1: Aggressive Entry Option: 
 - Immediately after the Pin Bar closes, without waiting for a confirmation - we catch move at the beginning based on :
