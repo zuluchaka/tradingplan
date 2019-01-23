@@ -41,7 +41,7 @@ Those 5 pairs should be backtested
 - XAUUSD
 - US30
 
-## Trading sessions
+## 1. Trading sessions (IDENTIFICATION)
 Time of the day to Trade: 
 
 - Asian session: Sunday at 23:00 (1H Analysis) - From Monday to Friday: 5h30 (1H) 
@@ -133,12 +133,14 @@ Moving Averages are used to gauge the direction and strength of the trend - They
 - DownTrend + Pullback to Pivot + Fibo 78.6% Level + Pin Bar
 
 
-## Timeframes
+### Timeframes
 
 - 4H
 - Daily
 
-## Entry Signal (On PULLBACK ONLY - WAIT FOR IT !!!!)
+## 2. EXECUTION 
+
+### Entry Signal (On PULLBACK ONLY - WAIT FOR IT !!!!)
 
 !!! DO NOT ENTER 'MARKET EXECUTION' ORDERS !!!!
 
@@ -211,19 +213,19 @@ Moving Averages are used to gauge the direction and strength of the trend - They
 
 
 
-## Trade Management 
+## 3. TRADE MANAGEMENT 
 
 Upon +10 pips in profit => Move STOP LOSS to breakeven and repeat it every 20 pips
 
-## STOP LOSS
+### STOP LOSS
 Place a stop to cover your bases in case my predictions about where the price will go is completely wrong.  
 
-### Method1: At 50% of Pin Bar Range
-### Method2: 2-3 pips Beyond Pin Bar High/Low (Check impact on lot size, may need to reduce it)
+#### Method1: At 50% of Pin Bar Range
+#### Method2: 2-3 pips Beyond Pin Bar High/Low (Check impact on lot size, may need to reduce it)
 
 Once the trade moves 2 or more pips in my favour bring my STOP LOSS to BREAK EVEN
 
-## POSITION SIZE (Trade Size !!!!) - 
+### POSITION SIZE (Trade Size !!!!) - 
 
 Take the appropriate risk for the trade (Not too High, Not too Low). This is the number of lots (micro, mini or standard)
 
@@ -247,22 +249,22 @@ Lot traded = $30/(25 x $1) = 1.2   => Take:
 
 USE : https://www.myfxbook.com/forex-calculators/position-size 
 
-## TAKE PROFIT
+### TAKE PROFIT
 The most important thing to do as a trader. Not every trade is a winner. 
-### Method1. TP at nearest Support/resistance zone inside previous bar range (Low Risk) - (FAKE, easily broken. too early)
-### Method2. TP at previous bars LOW or HIGH (Medium Risk, risk reward ration: should be minimum 1:1.5)
-### Method3. TP at nearest insterest level outside previous bar range 
-### Method4. Parabolic SAR: Hold Trade in Profit until the DOT of the Parabolic SAR appear in the reverse direction of the current trend
+#### Method1. TP at nearest Support/resistance zone inside previous bar range (Low Risk) - (FAKE, easily broken. too early)
+#### Method2. TP at previous bars LOW or HIGH (Medium Risk, risk reward ration: should be minimum 1:1.5)
+#### Method3. TP at nearest insterest level outside previous bar range 
+#### Method4. Parabolic SAR: Hold Trade in Profit until the DOT of the Parabolic SAR appear in the reverse direction of the current trend
 
-## PARTIAL PROFIT:
+### PARTIAL PROFIT:
 - Take 50% of profit at TP1
 - Take 75 - 100% profit at TP2 or TP3 (Only do this after moving STOP LOSS to BREAK EVEN)
 
-## Trailing STOP LOSS
+### Trailing STOP LOSS
 
 
 
-## EXIT Signal
+### EXIT Signal
 
 - Zone Exit (hit profit target or stop loss or breakeven).
 - 3-Bar Exit
