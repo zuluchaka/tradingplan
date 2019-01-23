@@ -313,4 +313,21 @@ Monthly Max Drawdown: 400 CHF, Weekly Max Drawdown: 100 CHF, Daily Max Drawdown:
 - Moving ON
 
 
+## TRADING SUCCESS
 
+UNDERSTAND
+PLAN
+EXECUTE
+
+1- PREPARE (1 Week)
+ - Look & Observe
+ - Listen
+ - Learn
+ 
+2. PRACTISE (7 Weeks)
+ - Demo Account
+ - Losses are Natural
+ 
+3. PROVE (4 Weeks)
+ - Consistent Cashflow
+ - Go Live
