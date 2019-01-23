@@ -323,7 +323,7 @@ EXECUTE
  - Look & Observe
  - Listen
  - Learn
- 
+
 2. PRACTISE (7 Weeks)
  - Demo Account
  - Losses are Natural
