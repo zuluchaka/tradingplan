@@ -33,7 +33,7 @@ At the end of each month, I will review my trading journal (provided by Brokers)
 
 
 ## currency pairs
-Those 5 pairs should be backtested
+Identification of the Optimal Pairs to Trade and Optimal Entry
 - EURUSD
 - USDJPY
 - GBPUSD
@@ -133,10 +133,7 @@ Moving Averages are used to gauge the direction and strength of the trend - They
 - DownTrend + Pullback to Pivot + Fibo 78.6% Level + Pin Bar
 
 
-### Timeframes
 
-- 4H
-- Daily
 
 ## 2. EXECUTION 
 
@@ -145,6 +142,12 @@ Moving Averages are used to gauge the direction and strength of the trend - They
 !!! DO NOT ENTER 'MARKET EXECUTION' ORDERS !!!!
 
 !!! DO NOT ENTER TRADES FROM MOBILE DURING THE DAY !!!!
+
+
+### Timeframes
+
+- 4H
+- Daily
 
 ### Fundamental ANALYSIS (FAL1)
   * check Economic Calendars News https://www.myfxbook.com/forex-economic-calendar  
