@@ -71,7 +71,7 @@ DO NOT ENTER TRADES DURING OTHER SESSIONS
 
 ### SWOT ANALYSIS
 
-![SWOT](https://drive.google.com/file/d/1SAQCShWt8a6HTbwBQ58vK-oBtJ-PobXg/view?usp=sharing)
+![SWOT](https://github.com/zuluchaka/tradingplan/blob/master/SWOT_trading.png)
 
 ### MARKET ANALYSIS - Fundamental Analysis
 
