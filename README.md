@@ -2,9 +2,27 @@
 
 Trading Plan description
 
-## GOAL
+## Current Life GOAL
 
-My GOAL is to improve my family lifestyle by making an extra 1000 CHF per month from FOREX Trading by growing each account I have by at least 10% per week and becoming a professional retail Trader
+My current GOAL is to:
+- Improve my family lifestyle
+- Payoff my existing debts completely
+- Afford Family vacations$
+- Reinvest
+
+By making an extra 4000 CHF per MONTH from FOREX Trading by growing each account I have by at least 10% per week and becoming a professional retail Trader
+
+
+## Trading GOAL  (Trading to Live not living to Trade)
+
+My current trading GOAL is to: 
+- Improve my trading style
+- Win a consistent number of pips per trade/week
+- Improve my trade success rate
+
+family lifestyle by making an extra 1000 CHF per WEEK from FOREX Trading by growing each account I have by at least 10% per week and becoming a professional retail Trader
+
+
 
 ## Time commitment
 
@@ -50,6 +68,10 @@ Time of the day to Trade:
 DO NOT ENTER TRADES DURING OTHER SESSIONS
 
 ## 1. Trading Setup (IDENTIFICATION)
+
+### SWOT ANALYSIS
+
+![SWOT](https://drive.google.com/file/d/1SAQCShWt8a6HTbwBQ58vK-oBtJ-PobXg/view?usp=sharing)
 
 ### MARKET ANALYSIS - Fundamental Analysis
 
