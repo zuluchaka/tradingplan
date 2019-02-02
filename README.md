@@ -16,7 +16,7 @@ By making an extra 4000 CHF per MONTH from FOREX Trading by growing each account
 ## Trading GOAL  (Trading to Live not living to Trade)
 
 My current trading GOAL is to: 
-- Improve my trading style
+- Improve my trading style and risk management
 - Win a consistent number of pips per trade/week
 - Improve my trade success rate
 
