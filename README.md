@@ -309,6 +309,17 @@ The most important thing to do as a trader. Not every trade is a winner.
 - Take a screenshot of the trade (AFTER) in Trello: https://trello.com/b/Jj6QDSv2/trading-journal-2018
 - Update trade in Journal (https://drive.google.com/drive/folders/1DYp9zuLJZ5bxZBdvmD7DJhnc7vrzpv3G?ogsrc=32)
 
+
+### EXIT IF
+- Volume is dropping in my move
+- Trade turns agains me and volume rises
+- Minimal price movement at 7.5 min
+
+### STAY IN IF
+- Volume is raising in my move
+- Trade turns agains me anf volume drops
+- Chart is moving strongly in my direction, supported by Volume
+
 ### GET OUT or STAY IN?
 
 
