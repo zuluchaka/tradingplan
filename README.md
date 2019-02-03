@@ -49,6 +49,9 @@ I will continue to improve my trading practice by:
 
 At the end of each month, I will review my trading journal (provided by Brokers) to determine whether any modifications to my trading plan seem warranted by the results it obtained over the preceding three months.
 
+## PRE-SESSION ROUTINE
+
+To bring cconsistency and predictability. create a confortable environment and reduce stress, less emotions, better decision making, better profits
 
 ## currency pairs
 Identification of the Optimal Pairs to Trade and Optimal Entry
@@ -59,13 +62,21 @@ Identification of the Optimal Pairs to Trade and Optimal Entry
 - XAUUSD
 - US30
 
-## Trading sessions 
-Time of the day to Trade: 
+## Trading sessions (My Business Hours)
 
-- Asian session: Sunday at 23:00 (1H Analysis) - From Monday to Friday: 5h30 (1H) 
-- Euro + North America: Every day at 13h30-14h (30 min)
+### Time of the day I plan to Trade: 
 
+- Asian session:  
+    * Sunday at 22:00, 1H Analysis before NZD Market Opening 
+    * Market Analysis (preparation) Every day - 5h30-6h30
+
+- London + New York Sessions Overlap: 
+    * Market Execution and trade management
+    
 DO NOT ENTER TRADES DURING OTHER SESSIONS
+
+### Scheduled time for Education
+- 1H per day from 22h-23h
 
 ## 1. Trading Setup (IDENTIFICATION)
 
@@ -172,7 +183,7 @@ Moving Averages are used to gauge the direction and strength of the trend - They
 - Daily
 
 ### Fundamental ANALYSIS (FAL1)
-  * check Economic Calendars News https://www.myfxbook.com/forex-economic-calendar  
+  * check Economic Calendar for any impact News about the Pair and trading session https://www.myfxbook.com/forex-economic-calendar  
       - if any RED flag (imapcting news) about the pair - DO NOT TRADE
   * Political news and Events 
   * Natural Events
@@ -297,6 +308,34 @@ The most important thing to do as a trader. Not every trade is a winner.
 - Take a screenshot of the trade (AFTER) in Trello: https://trello.com/b/Jj6QDSv2/trading-journal-2018
 - Update trade in Journal (https://drive.google.com/drive/folders/1DYp9zuLJZ5bxZBdvmD7DJhnc7vrzpv3G?ogsrc=32)
 
+### GET OUT or STAY IN?
+
+
+## POST SESSION ROUTINE
+- prepare for the next session 
+- trade journal review
+- review broker accounts
+- review recordings
+
+## TRADING JOURNAL
+
+- Price ENTRY
+- Price Exit
+- Time Entered
+- Time Exit
+- Pips Gained/Lossed
+- Long vs Short
+- Lot Size
+- Market Traded
+- Chart TimeFrame
+- Major Economic News
+- Notes pon Mindframe
+- Major Events in personal life
+- Emotion during the trade
+- What made me get in
+- What made me get out
+- Error in Identification/Execution/Management
+
 ## Metadata
 
 - Monthly Max Drawndown: 40% (max 120 monthly trades)
@@ -353,3 +392,6 @@ EXECUTE
 3. PROVE (4 Weeks)
  - Consistent Cashflow
  - Go Live
+
+## Contingency Planning
+
