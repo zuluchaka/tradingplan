@@ -243,6 +243,7 @@ Moving Averages are used to gauge the direction and strength of the trend - They
    * Minimum Risk/Reward ration 1:3 or greater
    * ALWAYS WAIT FOR THE PREVIOUS DAILY CANDLE TO CLOSE
 - Add new trade to journal : https://drive.google.com/drive/folders/1DYp9zuLJZ5bxZBdvmD7DJhnc7vrzpv3G?ogsrc=32 
+- Video record my trading decision process and review it after.
 - Take a screenshot of the trade at market CLOSE (BEFORE) in Trello: https://trello.com/b/Jj6QDSv2/trading-journal-2018
 
 
