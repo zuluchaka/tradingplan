@@ -257,6 +257,9 @@ Upon +10 pips in profit => Move STOP LOSS to breakeven and repeat it every 20 pi
 ### STOP LOSS
 Place a stop to cover your bases in case my predictions about where the price will go is completely wrong.  
 
+![STOPLOSS](https://github.com/zuluchaka/tradingplan/blob/master/stop_loss_place.png)
+
+
 #### Method1: At 50% of Pin Bar Range
 #### Method2: 2-3 pips Beyond Pin Bar High/Low (Check impact on lot size, may need to reduce it)
 
