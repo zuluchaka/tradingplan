@@ -67,14 +67,21 @@ Identification of the Optimal Pairs to Trade and Optimal Entry
 
 ## Trading sessions (My Business Hours)
 
-### Time of the day I plan to Trade: 
+### My Trading Day 
 
-- Asian session:  
-    * Sunday at 22:00, 1H Analysis before NZD Market Opening 
-    * Market Analysis (preparation) Every day - 5h30-6h30
+- Before Asian Session:  
+    * Sunday: 20:00 - 22h00 -  Fundamental Analysis (FAL) 
+    * Sunday: 23:00 - 00h00 - Review Big Belt Strategy Results
+    * Monday - Friday: 5h30-6h30 - Scalp + Currency Strength Analysis (Execution) + London Brakeout Strategy (preparation)
 
-- London + New York Sessions Overlap: 
-    * Market Execution and trade management
+- London Session: 
+    * Monday - Friday: 10h00 - 11h00 - London Breakout Strategy (execution)
+    
+- London + New York Sessions:
+    * Monday - Friday:  Management of Swing trades (Pin Bar Strategy)
+    
+- Before End of New York Session:
+    * Friday: 22h:00 - Big Belt Strategy (preparation)
     
 DO NOT ENTER TRADES DURING OTHER SESSIONS
 
@@ -87,9 +94,53 @@ DO NOT ENTER TRADES DURING OTHER SESSIONS
 
 ![SWOT](https://github.com/zuluchaka/tradingplan/blob/master/SWOT_trading.png)
 
-### MARKET ANALYSIS - Fundamental Analysis
+### MARKET ANALYSIS - Fundamental Analysis & Logistics
+#### Timeframes
 
-DO NOT trade forex during the hour before and after medium and high priority economic data, policymaker speeches and news releases relevant to either currency in a currency pair.
+- 1H
+- 4H
+- Daily
+
+Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) to analyze price movement against the trend
+
+#### Fundamental ANALYSIS (FAL1)
+  * check Economic Calendar for any impact News about the Pair and trading session https://www.myfxbook.com/forex-economic-calendar  
+ - Look for daily RED Flag news (economic data, policymaker speeches and news releases) relevant to either currency in a currency pair and the corresponding hour.
+ 
+ - Look at the ForexTrack application for Currency Strength Analysis: https://tracking.csa5steps.com/
+
+
+#### Logistics ANALYSIS (FAL2)
+  * Logistics: 
+  * Playbook analysis :https://tracking.csa5steps.com/
+    - Market weekly/daily view records = What market has been doing
+  * Currency Cycles Records
+    - Tracking currency cycles, strength or weaknesses every 5 min, 30min, 1H, 4H (For selected currencies)
+  * Trading Records
+    - Track every trade (Demo, Live): all information about the trade including why I got IN and OUT to understand its performance 
+  * Trading Plan (To FOLLOW)
+    - To understand my performance as a Trader
+
+#### Currency Strength Analysis (CSA)
+  * Single Currencies analysis
+  * Strength Vs Weakness
+  * Optimal Pairing
+  * Currency Cycles
+  
+#### Volume Price Analysis (VPA)
+  * Price can be manipulated (We need to make the difference : Manipulation of price Vs real Volume)
+  * Volume cannot be hidden
+  * Volume of Transactions move Price
+  * BIG Money tracks Volume
+  
+#### Volume Spread Analysis (VSA)
+
+  * Highly Sophisticated Volume Analysis
+  * More than 400 nuances of Volume Behaviour
+  * For Professional traders
+  * Requires dedicated learning and expensive tools
+
+### TPO
 
 ### MARKET ANALYSIS - Technical Analysis 
 
@@ -109,10 +160,10 @@ DO NOT trade forex during the hour before and after medium and high priority eco
  * Candle rejection: The wick touches the support/resistance but the body don't
  * Ideally at the end of an impulsive move and may indicate the beginning of a reversal price momentum
 - Pin Bar that appear/close in direction of the Trend
- * IF UPTREND then BULLISH Pin Bar closes higher than than the open.
+ * IF UPTREND then BULLISH Pin Bar closes higher than the open.
  * IF DOWNTREND then BEARISH Pin Bar closes lower than the open.
 
-- Avoir Pin Bar that doesn't show a price rejection evidence
+- Avoid Pin Bar that doesn't show a price rejection evidence
 
 ### Identify Market Trend: 
 
@@ -120,15 +171,15 @@ DO NOT trade forex during the hour before and after medium and high priority eco
 
 - Switch to DAILY LINE CHART: Draw  Major & Minor (INTRA) Support & Resistance Zones
 
- * IF current Price > 200 EMA THEN UPTREND. => Look for a BUY
- * IF current Price < 200 EMA THEN DOWNTREND => Look for a SELL
+ * IF current Price > 200 EMA THEN UPTREND. => Look for a BUY (The Trend is MY Friend!!!!!)
+ * IF current Price < 200 EMA THEN DOWNTREND => Look for a SELL (Don't Trade against the trend)
 
  look for DOUBLE BOTTOM : MAJOR SUPPORT + MAJOR SUPPORT TRENDLINE
  look for DOUBLE TOP: MAJOR RESISTANCE + MAJOR RESISTANCE TRENDLINE
  
  ALWAYS TRADE NEAR AN AREA OF SUPPORT / RESISTANCE
  
-### Trend Status: 
+### Identify Current Trend Status: 
 - Beginning
 - Ongoing
 - Ending
@@ -140,10 +191,10 @@ DO NOT trade forex during the hour before and after medium and high priority eco
 
 ## Indicators Used for Confluence (Focus on QUALITY SETUPS)
 Factors of Confluence:
-- The Trend
-- Support/Resistance Level, Supply & Demand Zones
-- Moving Averages
-- Fibonacci Retracements (Based on Top and Bottom of most recent TREND)
+- Trade in the direction of the Trend
+- Price currently at a Support/Resistance Level, Supply & Demand Zones
+- Moving Averages cross, touch (Dynamic Support & Resistance zones) - 8SMA, 21SMA, 89SMA, 50EMA and 200EMA
+- Price at a Fibonacci Retracements (Based on Top and Bottom of most recent TREND)
 - Trendlines: After drawing it , wait for price to retrace back to it
 - Bolinger Bands : If price are rejected (PinBar) from the major levels and from the Bands it is a confirmation
 - Large Round Numbers: Pay attention to large round numbers closed to a Pin Bar (historically)
@@ -173,70 +224,28 @@ Moving Averages are used to gauge the direction and strength of the trend - They
 
 ## 2. EXECUTION 
 
-### Entry Signal (On PULLBACK ONLY - WAIT FOR IT !!!!)
+### ORDER ENTRY CONDITIONS 
 
 !!! DO NOT ENTER 'MARKET EXECUTION' ORDERS !!!!
 
 !!! DO NOT ENTER TRADES FROM MOBILE DURING THE DAY !!!!
 
 
-### Timeframes
-
-- 4H
-- Daily
-
-### Fundamental ANALYSIS (FAL1)
-  * check Economic Calendar for any impact News about the Pair and trading session https://www.myfxbook.com/forex-economic-calendar  
-      - if any RED flag (imapcting news) about the pair - DO NOT TRADE
-  * Political news and Events 
-  * Natural Events
-
-### Logistics ANALYSIS (FAL2)
-  * Logistics
-  * Playbook analysis
-    - Market weekly/daily view records = What market has been doing
-  * Currency Cycles Records
-    - Tracking currency cycles, strength or weaknesses every 5 min, 30min, 1H, 4H (For selected currencies)
-  * Trading Records
-    - Track every trade (Demo, Live): all information about the trade including why I got IN and OUT to understand its performance 
-  * Trading Plan (To FOLLOW)
-    - To understand my performance as a Trader
-  
-### Currency Strength Analysis (CSA)
-  * Single Currencies analysis
-  * Strength Vs Weakness
-  * Optimal Pairing
-  * Currency Cycles
-  
-### Volume Price Analysis (VPA)
-  * Price can be manipulated (We need to make the difference : Manipulation of price Vs real Volume)
-  * Volume cannot be hidden
-  * Volume of Transactions move Price
-  * BIG Money tracks Volume
-  
-### Volume Spread Analysis (VSA)
-
-  * Highly Sophisticated Volume Analysis
-  * More than 400 nuances of Volume Behaviour
-  * For Professional traders
-  * Requires dedicated learning and expensive tools
-
-### TPO
-  
-### Method1: Aggressive Entry Option: 
+#### Method1: Aggressive Entry Option: 
 - Immediately after the Pin Bar closes, without waiting for a confirmation - we catch move at the beginning based on :
    * The Trend: UPTREND / DOWNTREND
    * Pin Bar formed at a Support / Resistance Level
    * Pin Bar formed after a retracement
    
-### Method2: Enter ON STOP - Entry Option:
+#### Method2: Enter ON STOP - Entry Option:
 - STOP Order1: Place BUY/SELL STOP ORDER a small distance (2-3 pips) beyond/above the high/low of the Pin Bar (knowing that the price has moved in the direction of profit before placing the trade).
 - STOP Order2: Place SELL/BUY STOP ORDER a small distance (2-3 pips) beyond/above the high/low of the Pin Bar (in case of reversal)
 - Delete STOP order that is not triggered after price movement (Immediately)
 
-### Method3: 50% Pin Bar Retrace - Conservative Entry Option: 
+#### Method3: 50% Pin Bar Retrace - Conservative Entry Option: 
 - Enter after 50% of  the range bar retracement - We decrease our risk and increase our reward (there is a Risk of missing the ENTRY)
 - BUY/SELL LIMIT ORDER at 50% Pin Bar Retracement (May miss some ENTRY opportunities if price don't retrace)
+
 
 
 ### Money Management - Conditions to enter (REASONS NOT to TRADE): 
@@ -252,10 +261,14 @@ Moving Averages are used to gauge the direction and strength of the trend - They
 
 
 
-
 ## 3. TRADE MANAGEMENT 
 
-Upon +10 pips in profit => Move STOP LOSS to breakeven and repeat it every 20 pips
+Upon +10 pips in profit => 
+- Move STOP LOSS to breakeven and repeat it every 20 pips
+- Enter another trade with bigger lot size (To increase PROFIT)
+
+Upon STOP LOSS =>
+- Close trade (To reduce LOSSES)
 
 ### STOP LOSS
 Place a stop to cover your bases in case my predictions about where the price will go is completely wrong.  
