@@ -10,18 +10,17 @@ My current GOAL is to:
 - Afford Family vacations$
 - Reinvest
 
-By making an extra 4000 CHF per MONTH from FOREX Trading by growing each account I have by at least 10% per week and becoming a professional retail Trader
+## 2019 GOAL
+
+Consistently making an extra 500 CHF per MONTH from FOREX Trading by growing my invested amount by at least 10% per week and becoming as experienced as a professional Trader
 
 
 ## Trading GOAL  (Trading to Live not living to Trade)
 
 My current trading GOAL is to: 
-- Improve my trading style and risk management
-- Win a consistent number of pips per trade/week
-- Improve my trade success rate
-
-family lifestyle by making an extra 1000 CHF per WEEK from FOREX Trading by growing each account I have by at least 10% per week and becoming a professional retail Trader
-
+- Improve my trading STYLE, RISK and MONEY management
+- Win a CONSISTENT number of pips per trade (5 - 30 pips) and per week (30 - 180 pips) 
+- Improve my trade success rate / trade efficiency
 
 
 ## Time commitment
@@ -30,12 +29,10 @@ I will spend additional 7h per week for my FOREX trading business
 
 ## Funds commitment
 
-I currently have 1000 CHF available in my trading Accounts:
+I currently invested 100 CHF available in my trading Account:
 - Broker Swissquote: 
   * Account 622021, Leverage 1:100
-  * Account 622217, Leverage 1:100
-- Broker JAFX 
-  * Account 165931, Leverage 1:200 (to reduce to 1:50)
+  
 
 ## Education Commitment
 
@@ -47,20 +44,26 @@ I will continue to improve my trading practice by:
 
 ## Trading Journal Content and Review
 
-At the end of each month, I will review my trading journal (provided by Brokers) to determine whether any modifications to my trading plan seem warranted by the results it obtained over the preceding three months.
+At the end of each week/month , I will review my trading journal (provided by Brokers) to determine whether any modifications to my trading plan seem warranted by the results it obtained over the preceding weeks/months.
 
 ## PRE-SESSION ROUTINE
 
-To bring cconsistency and predictability. create a confortable environment and reduce stress, less emotions, better decision making, better profits
+To bring consistency and predictability, i will verify that:
+- I am in a confortable environment and quiet, without stress, less emotions to make better decisions and better profits
 
 ## currency pairs
 Identification of the Optimal Pairs to Trade and Optimal Entry
-- EURUSD
-- USDJPY
-- GBPUSD
-- GBPJPY
-- XAUUSD
-- US30
+- All 28 FX pairs: (AUD, CAD, CHF, EUR, GBP, JPY, NZD, USD)
+   * AUDCAD, AUDCHF, AUDJPY, AUDNZD, AUDUSD
+   * CADCHF, CADJPY
+   * CHFJPY
+   * EURAUD, EURCAD, EURCHF, EURGBP, EURJPY, EURNZD, EURUSD
+   * GBPAUD, GBPCAD, GBPCHF, GBPJPY, GBPNZD, GBPUSD
+   * NZDCAD, NZDCHF, NZDJPY, NZDUSD
+   * USDCAD, USDCHF, USDJPY
+ 
+- Commodities: XAUUSD (Gold)
+- Indices: US30, SP500, ...
 
 ## Trading sessions (My Business Hours)
 
