@@ -53,14 +53,16 @@ To bring consistency and predictability, i will verify that:
 
 ## currency pairs
 Identification of the Optimal Pairs to Trade and Optimal Entry
-- All 28 FX pairs: (AUD, CAD, CHF, EUR, GBP, JPY, NZD, USD)
-   * AUDCAD, AUDCHF, AUDJPY, AUDNZD, AUDUSD
-   * CADCHF, CADJPY
-   * CHFJPY
-   * EURAUD, EURCAD, EURCHF, EURGBP, EURJPY, EURNZD, EURUSD
-   * GBPAUD, GBPCAD, GBPCHF, GBPJPY, GBPNZD, GBPUSD
-   * NZDCAD, NZDCHF, NZDJPY, NZDUSD
-   * USDCAD, USDCHF, USDJPY
+- All 8 Major FX pairs: (AUD, CAD, CHF, EUR, GBP, JPY, NZD, USD) and their corresponding Baskets:
+
+   * AUD Basket : AUDCAD, AUDCHF, AUDJPY, AUDNZD, AUDUSD, GBPAUD, EURAUD
+   * CAD Basket : CADCHF, CADJPY, AUDCAD, EURCAD, GBPCAD, NZDCAD, USDCAD
+   * CHF Basket : CHFJPY, EURCHF, AUDCHF, USDCHF, GBPCHF, NZDCHF, CADCHF
+   * EUR BAsket : EURAUD, EURCAD, EURCHF, EURGBP, EURJPY, EURNZD, EURUSD
+   * GBP Basket : GBPAUD, GBPCAD, GBPCHF, GBPJPY, GBPNZD, GBPUSD, EURGBP
+   * NZD Basket : NZDCAD, NZDCHF, NZDJPY, NZDUSD, AUDNZD, EURNZD, GBPNZD
+   * USD Basket : USDCAD, USDCHF, USDJPY, AUDUSD, EURUSD, GBPUSD, NZDUSD
+   * JPY Basket : AUDJPY, CADJPY, CHFJPY, EURJPY, GBPJPY, NZDJPY, USDJPY
  
 - Commodities: XAUUSD (Gold)
 - Indices: US30, SP500, ...
@@ -74,10 +76,11 @@ Identification of the Optimal Pairs to Trade and Optimal Entry
     * Sunday: 23:00 - 00h00 - Review Big Belt Strategy Results
     * Monday - Friday: 5h30-6h30 - Scalp + Currency Strength Analysis (Execution) + London Brakeout Strategy (preparation)
 
-- London Session: 
-    * Monday - Friday: 10h00 - 11h00 - London Breakout Strategy (execution)
+- Before London Session: 
+    * Monday - Friday: 22h00 - 00h00 - PinBar Analysis (preparation)
     
 - London + New York Sessions:
+    * Monday - Friday: 10h00 - 11h00 - London Breakout Strategy (execution)
     * Monday - Friday:  Management of Swing trades (Pin Bar Strategy)
     
 - Before End of New York Session:
