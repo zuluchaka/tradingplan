@@ -53,16 +53,16 @@ To bring consistency and predictability, i will verify that:
 
 ## currency pairs
 Identification of the Optimal Pairs to Trade and Optimal Entry
-- All 8 Major FX pairs: (AUD, CAD, CHF, EUR, GBP, JPY, NZD, USD) and their corresponding Baskets:
+- All 8 Major FX pairs: (AUD, CAD, CHF, EUR, GBP, NZD, USD, JPY) and their corresponding Baskets:
 
-   * AUD Basket : AUDCAD, AUDCHF, AUDJPY, AUDNZD, AUDUSD, GBPAUD, EURAUD
-   * CAD Basket : CADCHF, CADJPY, AUDCAD, EURCAD, GBPCAD, NZDCAD, USDCAD
-   * CHF Basket : CHFJPY, EURCHF, AUDCHF, USDCHF, GBPCHF, NZDCHF, CADCHF
-   * EUR BAsket : EURAUD, EURCAD, EURCHF, EURGBP, EURJPY, EURNZD, EURUSD
-   * GBP Basket : GBPAUD, GBPCAD, GBPCHF, GBPJPY, GBPNZD, GBPUSD, EURGBP
-   * NZD Basket : NZDCAD, NZDCHF, NZDJPY, NZDUSD, AUDNZD, EURNZD, GBPNZD
-   * USD Basket : USDCAD, USDCHF, USDJPY, AUDUSD, EURUSD, GBPUSD, NZDUSD
-   * JPY Basket : AUDJPY, CADJPY, CHFJPY, EURJPY, GBPJPY, NZDJPY, USDJPY
+   * AUD Basket : ------, AUDCAD, AUDCHF, EURAUD, GBPAUD, AUDNZD, AUDUSD, AUDJPY
+   * CAD Basket : AUDCAD, ------, CADCHF, EURCAD, GBPCAD, NZDCAD, USDCAD, CADJPY
+   * CHF Basket : AUDCHF, CADCHF, ------, EURCHF, GBPCHF, CHFNZD, USDCHF, CHFJPY
+   * EUR BAsket : EURAUD, EURCAD, EURCHF, ------, EURGBP, EURNZD, EURUSD, EURJPY
+   * GBP Basket : GBPAUD, GBPCAD, GBPCHF, EURGBP, ------, GBPNZD, GBPUSD, GBPJPY
+   * NZD Basket : AUDNZD, NZDCAD, NZDCHF, EURNZD, GBPNZD, ------, NZDUSD, NZDJPY
+   * USD Basket : AUDUSD, USDCAD, USDCHF, EURUSD, GBPUSD, NZDUSD, ------, USDJPY
+   * JPY Basket : AUDJPY, CADJPY, CHFJPY, EURJPY, GBPJPY, NZDJPY, USDJPY, ------
  
 - Commodities: XAUUSD (Gold)
 - Indices: US30, SP500, ...
