@@ -19,7 +19,10 @@ Consistently making an extra 500 CHF per MONTH from FOREX Trading by growing my 
 
 My current trading GOAL is to: 
 - Improve my trading STYLE, RISK and MONEY management
-- Win a CONSISTENT number of pips per trade (5 - 30 pips) and per week (30 - 180 pips) 
+- Win a CONSISTENT number of pips :
+    * Per trade: 5 - 30 pips
+    * Per Day: 40 - 60 pips 
+    * Per Week: 200 - 300 pips 
 - Improve my trade success rate / trade efficiency
 
 
