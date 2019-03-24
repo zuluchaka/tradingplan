@@ -110,7 +110,18 @@ DO NOT ENTER TRADES DURING OTHER SESSIONS
 Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) to analyze price movement against the trend
 
 #### Fundamental ANALYSIS (FAL1)
-  * check Economic Calendar for any impact News for the WEEK about the Pair and trading session https://www.myfxbook.com/forex-economic-calendar or https://www.forexfactory.com/calendar.php   
+  -  check Economic Calendar for any impact News for the WEEK about the Pair and trading session https://www.myfxbook.com/forex-economic-calendar or https://www.forexfactory.com/calendar.php   
+     * High Impact News on GBP and USD
+     > Preliminary GDP
+     > Retails Sales
+     > CPI
+     > PPI - New Homes Sales   
+     > Official Bank Rate - Asset Purchase Facility - Interest Rates
+     > Claimant Count - Non Farm Payrool (NFP)
+     > Manufacturing PMI
+     
+    
+       
   * Look for daily RED Flag news (economic data, policymaker speeches and news releases) relevant to either currency in a currency pair and the corresponding hour.
  
  - Look at the ForexTrack application for Currency Strength Analysis: https://tracking.csa5steps.com/
