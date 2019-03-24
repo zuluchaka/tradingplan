@@ -116,7 +116,7 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
      > Retails Sales
      > CPI
      > PPI - New Homes Sales   
-     > Official Bank Rate - Asset Purchase Facility - Interest Rates
+     > Official Bank Rate,Asset Purchase Facility, Interest Rates
      > Claimant Count - Non Farm Payrool (NFP)
      > Manufacturing PMI
      
