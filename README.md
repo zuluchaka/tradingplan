@@ -94,7 +94,7 @@ DO NOT ENTER TRADES DURING OTHER SESSIONS
 ### Scheduled time for Education
 - 1H per day from 22h-23h
 
-## 1. Trading Setup (IDENTIFICATION)
+## 1. IDENTIFY A TRADE
 
 ### SWOT ANALYSIS
 
@@ -246,7 +246,7 @@ Moving Averages are used to gauge the direction and strength of the trend - They
 
 
 
-## 2. EXECUTION 
+## 2. EXECUTE A TRADE 
 
 ### ORDER ENTRY CONDITIONS 
 
@@ -285,7 +285,7 @@ Moving Averages are used to gauge the direction and strength of the trend - They
 
 
 
-## 3. TRADE MANAGEMENT 
+## 3. MANAGE A TRADE 
 
 Upon +10 pips in profit => 
 - Move STOP LOSS to breakeven and repeat it every 20 pips
