@@ -20,7 +20,7 @@ Consistently making an extra 500 CHF per MONTH from FOREX Trading by growing my 
 My current trading GOAL is to: 
 - Improve my trading STYLE, RISK and MONEY management
 - Win a CONSISTENT number of pips :
-    * Per trade: 5 - 30 pips
+    * Per trade: 3 - 7 pips in 15 min OR 7 tp 30 pips in 30 min
     * Per Day: 40 - 60 pips 
     * Per Week: 200 - 300 pips 
 - Improve my trade success rate / trade efficiency
@@ -54,6 +54,28 @@ At the end of each week/month , I will review my trading journal (provided by Br
 To bring consistency and predictability, i will verify that:
 - I am in a confortable environment and quiet, without stress, less emotions to make better decisions and better profits
 
+## Currency Cycles
+- NZD, AUD, JPY - 15 mins
+- GBP, EUR, CAD, USD - 30 mins
+
+## Priority Trading
+
+- OPEN Market Vs CLOSED Market
+- OPEN Market Vs OPEN Market
+- CLOSED Market Vs CLOSED Market
+
+LONDON: (08:00 - 13:00): Look for pairs GBPUSD, GBPCAD, GBPNZD, GBPAUD, GBPJPY, EURUSD, EURCAD, EURNZD, EURAUD, and EURJPY 
+ - OPEN : GBP, EUR
+ - CLOSED: USD, CAD, NZD, AUD, JPY
+
+NEWYORK/LONDON : (13:00 - 17:00): Look for pairs EURUSD, EURCAD, EURGBP, GBPCAD, GBPUSD, USDCAD
+- OPEN: USD, CAD, GBP, EUR
+- CLOSED: NZD, AUD, JPY
+
+NEWYORK: (17:00 - 22:00): Look for pairs EURGBP, EURNZD, EURAUD, EURJPY, GBPNZD, GBPAUD, GBPJPY, NZDJPY, AUDNZD
+- OPEN: USD, CAD
+- CLOSED: GBP, EUR, NZD, AUD, JPY
+
 ## currency pairs
 Identification of the Optimal Pairs to Trade and Optimal Entry
 - All 8 Major FX pairs: (AUD, CAD, CHF, EUR, GBP, NZD, USD, JPY) and their corresponding Baskets:
@@ -69,6 +91,14 @@ Identification of the Optimal Pairs to Trade and Optimal Entry
  
 - Commodities: XAUUSD (Gold)
 - Indices: US30, SP500, ...
+
+## 20-Charts Layout
+https://www.multicoincharts.com/?chart=EURAUD&chart=EURCAD&chart=EURGBP&chart=EURNZD&chart=EURUSD&chart=AUDJPY&chart=CADJPY&chart=EURJPY&chart=NZDJPY&chart=USDJPY&chart=GBPAUD&chart=GBPCAD&chart=GBPJPY&chart=GBPNZD&chart=GBPUSD&chart=AUDUSD&chart=USDCAD&chart=USDJPY&chart=NZDUSD&chart=EURUSD&
+
+* EURAUD, EURCAD, EURGBP, EURNZD, EURUSD
+* AUDJPY, CADJPY, EURJPY, NZDJPY, USDJPY
+* GBPAUD, GBPCAD, GBPJPY, GBPNZD, GBPUSD
+* AUDUSD, USDCAD, USDJPY, NZDUSD, EURUSD
 
 ## Trading sessions (My Business Hours)
 
@@ -285,7 +315,7 @@ Moving Averages are used to gauge the direction and strength of the trend - They
 
 
 
-## 3. MANAGE A TRADE 
+## 3. MANAGE A TRADE (Preservation of Capital)
 
 Upon +10 pips in profit => 
 - Move STOP LOSS to breakeven and repeat it every 20 pips
