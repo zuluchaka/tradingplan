@@ -93,12 +93,18 @@ Identification of the Optimal Pairs to Trade and Optimal Entry
 - Indices: US30, SP500, ...
 
 ## 20-Charts Layout
+Browser zoom at 67%
+
 https://www.multicoincharts.com/?chart=EURAUD&chart=EURCAD&chart=EURGBP&chart=EURNZD&chart=EURUSD&chart=AUDJPY&chart=CADJPY&chart=EURJPY&chart=NZDJPY&chart=USDJPY&chart=GBPAUD&chart=GBPCAD&chart=GBPJPY&chart=GBPNZD&chart=GBPUSD&chart=AUDUSD&chart=USDCAD&chart=USDJPY&chart=NZDUSD&chart=EURUSD&
 
 * EURAUD, EURCAD, EURGBP, EURNZD, EURUSD
 * AUDJPY, CADJPY, EURJPY, NZDJPY, USDJPY
 * GBPAUD, GBPCAD, GBPJPY, GBPNZD, GBPUSD
 * AUDUSD, USDCAD, USDJPY, NZDUSD, EURUSD
+
+Exple AU/ and UJ/
+![20CHART](https://github.com/zuluchaka/tradingplan/blob/master/20charts_29032019_23_00_AU_long_UJ_long.png)
+
 
 ## Trading sessions (My Business Hours)
 
