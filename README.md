@@ -21,7 +21,7 @@ My current GOAL is to:
 
 ## 2019 GOAL
 
-Consistently follow my trading plan when Trading and growing my invested amount by at least 10% per week and becoming as experienced as a professional Trader
+Becoming CONSISTENT in following my TRADING PLAN for every trade and growing my invested amount by at least 10% per week and becoming as experienced as a professional Trader
 
 
 ## Trading GOAL  (Trading to Live not living to Trade)
@@ -37,18 +37,20 @@ My current trading GOAL is to:
 
 ## Time commitment
 
-I will spend additional 7h per week for my FOREX trading business
+I will spend  1h per day for my FOREX trading charts ANALYSIS (23h-00h) - From Monday to Friday.
 
 ## Funds commitment
 
-I currently invested 100 CHF available in my trading Account:
+I will invest additional 500 CHF every month in a trading Account:
 - Broker Swissquote: 
   * Account 622021, Leverage 1:100
+- Broket IC Markets:
+  * Account xxxxxx
   
 
 ## Education Commitment
 
-I will continue to improve my trading practice by:
+I will continue to improve my trading practice by spending 5-7h per week on:
 - Reading highly recommended Books on FOREX Trading, 
 - Watching video lectures explaining how to become a professional Trader
 - Learning by following analysis from famous professional Forex Traders on social networks
@@ -125,19 +127,18 @@ Exple AU/ and UJ/
     * Monday - Friday: 5h30-6h30 - Scalp + Currency Strength Analysis (Execution) + London Brakeout Strategy (preparation)
 
 - Before London Session: 
-    * Monday - Friday: 22h00 - 00h00 - PinBar Analysis (preparation)
+    * Monday - Friday: 22h00 - 00h00 - Charts Analysis (preparation)
     
 - London + New York Sessions:
-    * Monday - Friday: 10h00 - 11h00 - London Breakout Strategy (execution)
-    * Monday - Friday:  Management of Swing trades (Pin Bar Strategy)
+    * Monday - Friday: 10h00 - 11h00 - London Breakout Strategy (Execution)
+    * Monday - Friday:  Management of Swing trades 
     
 - Before End of New York Session:
     * Friday: 22h:00 - Big Belt Strategy (preparation)
     
 DO NOT ENTER TRADES DURING OTHER SESSIONS
 
-### Scheduled time for Education
-- 1H per day from 22h-23h
+
 
 ## 1. IDENTIFY A TRADE
 
@@ -154,7 +155,7 @@ DO NOT ENTER TRADES DURING OTHER SESSIONS
 
 Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) to analyze price movement against the trend
 
-#### Fundamental ANALYSIS (FAL1)
+#### Fundamental ANALYSIS (FAL1) - Identify the PAIR to trade and WHY
   -  check Economic Calendar for any impact News for the WEEK about the Pair and trading session 
   - https://www.myfxbook.com/forex-economic-calendar or 
   - https://www.forexfactory.com/calendar.php   or
@@ -163,7 +164,9 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
   - Research and Analysis:
   * https://www.centralbanking.com/ 
   
-  ##### High Impact News on GBP and USD
+  Look for reasons WHY prices are moving in a specific direction
+  
+  ##### High Impact News on GBP and USD 
      > Preliminary GDP
      > Retails Sales
      > CPI
@@ -176,12 +179,12 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
        
   * Look for daily RED Flag news (economic data, policymaker speeches and news releases) relevant to either currency in a currency pair and the corresponding hour.
  
- - Look at the ForexTrack application for Currency Strength Analysis: https://tracking.csa5steps.com/
+ 
 
 
 #### Logistics ANALYSIS (FAL2)
   * Logistics: 
-  * Playbook analysis :https://tracking.csa5steps.com/
+  * Look at the ForexTrack application for Currency Strength Analysis: https://tracking.csa5steps.com/
     - Market weekly/daily view records = What market has been doing
   * Currency Cycles Records
     - Tracking currency cycles, strength or weaknesses every 5 min, 30min, 1H, 4H (For selected currencies)
@@ -211,28 +214,24 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
 
 ### TPO
 
-### MARKET ANALYSIS - Technical Analysis 
+### TECHNICAL MARKET ANALYSIS  - Where to place Entries,Stop Losses, Take Profits.
 
-- Trading System: Bullish/Bearish Pin Bar Reversal Candlestick (Kangaroo Tail)
+Attempt to identify FUTURE PRICE movces by evaluating price charts. This involve studying patterns on the charts which indicate possible future price direction: 
+
+- Price Action on chart
+- Support Resistance
+- Fibonacci Tools
+- Technical Indicators (MAs, Parabolic SAR, Stochastic, Bollinger Bands, RSI,etc..)
 
 
-![Pin Bar](https://forextraininggroup.com/wp-content/uploads/2016/07/Pin-Bar-Structure.png)
+### QUestions
+- Can I identify the main themes that drove the markets yesterday?
+- Are there any clear identifiable strong and weak currencies at present?
+- Will my trade ideas be pairing a STRONG currency with a WEAK currency?
+- What type of important economic data is coming up that I should be aware of?
+- Does my technical analysis give me a suitable entry location?
+- Am I sure the sentiment in the market is enough to move price in my direction?
 
-
-### Validity Pin Bar:
-- The long wick should be at least 2-3 times the length of the body of the candlestick
-- The body should be larger than previous bars range
-- The body should be present towards either the upper or lower extreme of the Pin Bar
-- The wick should stand out when compared to previous bars (with room to the left)
-- Pin Bar will affect immediately following 4-5 bars
-- Pin Bar should print at a Support and Resistance:
- * Candle rejection: The wick touches the support/resistance but the body don't
- * Ideally at the end of an impulsive move and may indicate the beginning of a reversal price momentum
-- Pin Bar that appear/close in direction of the Trend
- * IF UPTREND then BULLISH Pin Bar closes higher than the open.
- * IF DOWNTREND then BEARISH Pin Bar closes lower than the open.
-
-- Avoid Pin Bar that doesn't show a price rejection evidence
 
 ### Identify Market Trend: 
 
@@ -253,40 +252,6 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
 - Ongoing
 - Ending
 
- 
-### CONTINUATION PATTERN: 
-- Ignore PinBar formed against the current trend
-- Ignore PinBar at least 4 times larger than previous candlesticks range
-
-## Indicators Used for Confluence (Focus on QUALITY SETUPS)
-Factors of Confluence:
-- Trade in the direction of the Trend
-- Price currently at a Support/Resistance Level, Supply & Demand Zones
-- Moving Averages cross, touch (Dynamic Support & Resistance zones) - 8SMA, 21SMA, 89SMA, 50EMA and 200EMA
-- Price at a Fibonacci Retracements (Based on Top and Bottom of most recent TREND)
-- Trendlines: After drawing it , wait for price to retrace back to it
-- Bolinger Bands : If price are rejected (PinBar) from the major levels and from the Bands it is a confirmation
-- Large Round Numbers: Pay attention to large round numbers closed to a Pin Bar (historically)
-- Pivot Points (PP): 
-- Check Swissquote PinBar Indicator visual (if any)
-
-Moving Averages are used to gauge the direction and strength of the trend - They are dynamic SR Levels. price religiously bounces off certain EMAs during retraces.
-
-- SMA(8, 21, 89)
-- EMA(50, 200) - reacts more quickly to recent price events than SMA
-- Fibonacci Retracement: 38.2, 50 and 61.8 are the most important levels for Pin Bar. Trade it in confluence with MA and EMA.
-- Pivot Points
-- Stochastic (Correlated to SUPPORT/RESISTANCE) DAILY Chart: 
-  * WE TRADE between (0 - 20) - OVERBOUGHT Market (near RESISTANCE)
-  * WE TRADE between (80 - 100) - OVERSOLD Market (near SUPPORT)
-  * Otherwise WE DONT TRADE
-
-### CONFLUENCE Examples: 
-- Strong UpTrend + PullBack to 21EMA + Fib 50% Level + Pin Bar 
-- Strong UpTrend + PullBack to 21EMA + S&R level + Bullish Pin Bar
-- UpTrend + PullBack to 50EMA + Fibo 50% Level + S&R Level + Pin Bar
-- DownTrend + PullBack to 50EMA + Fibo 50% Level + S&R Level + Pin Bar
-- DownTrend + Pullback to Pivot + Fibo 78.6% Level + Pin Bar
 
 
 
