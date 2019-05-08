@@ -1,6 +1,13 @@
-# My Pin Bar Trading Plan
-#### Approach the market with more objectivity and structure
+# My Trading Plan
+#### Approach the market with more objectivity and structure - A Business plan for my trading career
 
+## Advantages:
+- It will guide me to where I want to go and to stay in track
+- It helps me to already know how to react to different scenarios
+- It helps me to keep the emotions in check and trade more disciplined
+- It will keep me from making too many impulsive decisions
+- It will also aide me in forming more constructive trading habits.
+- It will help me to focus on the process of trading and not only the outcomes.
 
 ## Current Life GOAL
 
