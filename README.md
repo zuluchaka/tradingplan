@@ -1,6 +1,6 @@
 # My Pin Bar Trading Plan
+#### Approach the market with more objectivity
 
-Trading Plan description
 
 ## Current Life GOAL
 
