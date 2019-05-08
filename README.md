@@ -260,30 +260,10 @@ Attempt to identify FUTURE PRICE movces by evaluating price charts. This involve
 
 ### ORDER ENTRY CONDITIONS 
 
-!!! DO NOT ENTER 'MARKET EXECUTION' ORDERS !!!!
-
-!!! DO NOT ENTER TRADES FROM MOBILE DURING THE DAY !!!!
-
-
-#### Method1: Aggressive Entry Option: 
-- Immediately after the Pin Bar closes, without waiting for a confirmation - we catch move at the beginning based on :
-   * The Trend: UPTREND / DOWNTREND
-   * Pin Bar formed at a Support / Resistance Level
-   * Pin Bar formed after a retracement
-   
-#### Method2: Enter ON STOP - Entry Option:
-- STOP Order1: Place BUY/SELL STOP ORDER a small distance (2-3 pips) beyond/above the high/low of the Pin Bar (knowing that the price has moved in the direction of profit before placing the trade).
-- STOP Order2: Place SELL/BUY STOP ORDER a small distance (2-3 pips) beyond/above the high/low of the Pin Bar (in case of reversal)
-- Delete STOP order that is not triggered after price movement (Immediately)
-
-#### Method3: 50% Pin Bar Retrace - Conservative Entry Option: 
-- Enter after 50% of  the range bar retracement - We decrease our risk and increase our reward (there is a Risk of missing the ENTRY)
-- BUY/SELL LIMIT ORDER at 50% Pin Bar Retracement (May miss some ENTRY opportunities if price don't retrace)
-
-
+- Risk Parameters: Risk at most 2% per trade, Leverage: 1:100, 
 
 ### Money Management - Conditions to enter (REASONS NOT to TRADE): 
-   * Enter on open of next bar after current pin bar
+   
    * Check daily, weekly, monthly drawdown => lot size calculation (generate SL, TP1,TP2 and TP3)
    * Risk 3% of account balance per trade
    * Minimum Risk/Reward ration 1:3 or greater
