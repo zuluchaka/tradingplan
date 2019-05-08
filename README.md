@@ -8,24 +8,26 @@
 - It will keep me from making too many impulsive decisions
 - It will also aide me in forming more constructive trading habits.
 - It will help me to focus on the process of trading and not only the outcomes.
+- A plan is necessary if I want to trade for a living or to manage funds - Take it seriously.
+- Helps me build my skills and knowledge
 
-## Current Life GOAL
+## Current Life GOAL - Objective
 
 My current GOAL is to:
 - Improve my family lifestyle
 - Payoff my existing debts completely
-- Afford Family vacations$
+- Afford Family vacations
 - Reinvest
 
 ## 2019 GOAL
 
-Consistently making an extra 500 CHF per MONTH from FOREX Trading by growing my invested amount by at least 10% per week and becoming as experienced as a professional Trader
+Consistently follow my trading plan when Trading and growing my invested amount by at least 10% per week and becoming as experienced as a professional Trader
 
 
 ## Trading GOAL  (Trading to Live not living to Trade)
 
 My current trading GOAL is to: 
-- Improve my trading STYLE, RISK and MONEY management
+- Improve my trading STYLE, RISK and MONEY management - ALWAYS follow my Trading Plan ON EVERY TRADE
 - Win a CONSISTENT number of pips :
     * Per trade: 3 - 7 pips in 15 min OR 7 tp 30 pips in 30 min
     * Per Day: 40 - 60 pips 
