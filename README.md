@@ -194,25 +194,24 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
     - To understand my performance as a Trader
 
 #### Currency Strength Analysis (CSA)
-  * Single Currencies analysis
-  * Strength Vs Weakness
-  * Optimal Pairing
-  * Currency Cycles
+  > Single Currencies analysis
+  > Strength Vs Weakness
+  > Optimal Pairing
+  > Currency Cycles
   
 #### Volume Price Analysis (VPA)
-  * Price can be manipulated (We need to make the difference : Manipulation of price Vs real Volume)
-  * Volume cannot be hidden
-  * Volume of Transactions move Price
-  * BIG Money tracks Volume
+  > Price can be manipulated (We need to make the difference : Manipulation of price Vs real Volume)
+  > Volume cannot be hidden
+  > Volume of Transactions move Price
+  > BIG Money tracks Volume
   
 #### Volume Spread Analysis (VSA)
 
-  * Highly Sophisticated Volume Analysis
-  * More than 400 nuances of Volume Behaviour
-  * For Professional traders
-  * Requires dedicated learning and expensive tools
+  > Highly Sophisticated Volume Analysis
+  > More than 400 nuances of Volume Behaviour
+  > For Professional traders
+  > Requires dedicated learning and expensive tools
 
-### TPO
 
 ### TECHNICAL MARKET ANALYSIS  - Where to place Entries,Stop Losses, Take Profits.
 
@@ -224,7 +223,7 @@ Attempt to identify FUTURE PRICE movces by evaluating price charts. This involve
 - Technical Indicators (MAs, Parabolic SAR, Stochastic, Bollinger Bands, RSI,etc..)
 
 
-### QUestions
+### Questions
 - Can I identify the main themes that drove the markets yesterday?
 - Are there any clear identifiable strong and weak currencies at present?
 - Will my trade ideas be pairing a STRONG currency with a WEAK currency?
@@ -258,43 +257,6 @@ Attempt to identify FUTURE PRICE movces by evaluating price charts. This involve
 
 ## 2. EXECUTE A TRADE 
 
-### ORDER ENTRY CONDITIONS 
-
-- Risk Parameters: Risk at most 2% per trade, Leverage: 1:100, 
-
-### Money Management - Conditions to enter (REASONS NOT to TRADE): 
-   
-   * Check daily, weekly, monthly drawdown => lot size calculation (generate SL, TP1,TP2 and TP3)
-   * Risk 3% of account balance per trade
-   * Minimum Risk/Reward ration 1:3 or greater
-   * ALWAYS WAIT FOR THE PREVIOUS DAILY CANDLE TO CLOSE
-- Add new trade to journal : https://drive.google.com/drive/folders/1DYp9zuLJZ5bxZBdvmD7DJhnc7vrzpv3G?ogsrc=32 
-- Video record my trading decision process and review it after.
-- Take a screenshot of the trade at market CLOSE (BEFORE) in Trello: https://trello.com/b/Jj6QDSv2/trading-journal-2018
-
-
-
-
-## 3. MANAGE A TRADE (Preservation of Capital)
-
-Upon +10 pips in profit => 
-- Move STOP LOSS to breakeven and repeat it every 20 pips
-- Enter another trade with bigger lot size (To increase PROFIT)
-
-Upon STOP LOSS =>
-- Close trade (To reduce LOSSES)
-
-### STOP LOSS
-Place a stop to cover your bases in case my predictions about where the price will go is completely wrong.  
-
-![STOPLOSS](https://github.com/zuluchaka/tradingplan/blob/master/stop_loss_place.png)
-
-
-#### Method1: At 50% of Pin Bar Range
-#### Method2: 2-3 pips Beyond Pin Bar High/Low (Check impact on lot size, may need to reduce it)
-
-Once the trade moves 2 or more pips in my favour bring my STOP LOSS to BREAK EVEN
-
 ### POSITION SIZE (Trade Size !!!!) - 
 
 Take the appropriate risk for the trade (Not too High, Not too Low). This is the number of lots (micro, mini or standard)
@@ -318,6 +280,32 @@ Lot traded = $30/(25 x $1) = 1.2   => Take:
 - 3 trades with 0.4 lot size each
 
 USE : https://www.myfxbook.com/forex-calculators/position-size 
+
+   * Check daily, weekly, monthly drawdown => lot size calculation (generate SL, TP1,TP2 and TP3)
+   * Risk 3% of account balance per trade
+   * Minimum Risk/Reward ration 1:3 or greater
+   * ALWAYS WAIT FOR THE PREVIOUS DAILY CANDLE TO CLOSE
+
+### Money Management - (REASONS NOT to TRADE): 
+   
+  
+- Add new trade to journal : https://drive.google.com/drive/folders/1DYp9zuLJZ5bxZBdvmD7DJhnc7vrzpv3G?ogsrc=32 
+- Video record my trading decision process and review it after.
+- Take a screenshot of the trade at market CLOSE (BEFORE) in Trello: https://trello.com/b/Jj6QDSv2/trading-journal-2018
+
+
+
+
+## 3. MANAGE A TRADE (Preservation of Capital)
+
+Upon +10 pips in profit => 
+- Move STOP LOSS to breakeven and repeat it every 20 pips
+- Enter another trade with bigger lot size (To increase PROFIT)
+
+Upon STOP LOSS =>
+- Close trade (To reduce LOSSES)
+
+
 
 ### TAKE PROFIT
 The most important thing to do as a trader. Not every trade is a winner. 
@@ -438,5 +426,4 @@ EXECUTE
  - Consistent Cashflow
  - Go Live
 
-## Contingency Planning
 
