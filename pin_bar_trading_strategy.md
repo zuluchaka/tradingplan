@@ -3,27 +3,18 @@
 #### Approach the market with more objectivity and structure - A Business plan for my trading career
 
 
-## Current Life GOAL
-
-My current GOAL is to:
-- Improve my family lifestyle
-- Payoff my existing debts completely
-- Afford Family vacations
-- Reinvest
-
 ## 2019 GOAL
 
-Consistently making an extra 500 CHF per MONTH from FOREX Trading by growing my invested amount by at least 10% per week and becoming as experienced as a professional Trader
+Consistently making profit from FOREX Trading by growing my invested amount by at least 100 pips per day and becoming as experienced as a professional Trader
 
 
-## Trading GOAL  (Trading to Live not living to Trade)
+## Trading GOAL  
 
 My current trading GOAL is to: 
 - Improve my trading STYLE, RISK and MONEY management
 - Win a CONSISTENT number of pips :
-    * Per trade: 3 - 7 pips in 15 min OR 7 tp 30 pips in 30 min
-    * Per Day: 40 - 60 pips 
-    * Per Week: 200 - 300 pips 
+    * Per trade: 100 pips
+     
 - Improve my trade success rate / trade efficiency
 
 
@@ -33,27 +24,10 @@ I will spend additional 10h per week for my FOREX trading business
 
 ## Funds commitment
 
-I currently invested 100 CHF available in my trading Account:
+I currently a trading Account:
 - Broker Swissquote: 
   * Account 622021, Leverage 1:100
   
-
-## Education Commitment
-
-I will continue to improve my trading practice by:
-- Reading highly recommended Books on FOREX Trading, 
-- Watching video lectures explaining how to become a professional Trader
-- Learning by following analysis from famous professional Forex Traders on social networks
-- Learning from Traders in Paid groups of traders sharing analysis and signals
-
-## Trading Journal Content and Review
-
-At the end of each week/month , I will review my trading journal (provided by Brokers) to determine whether any modifications to my trading plan seem warranted by the results it obtained over the preceding weeks/months.
-
-## PRE-SESSION ROUTINE
-
-To bring consistency and predictability, i will verify that:
-- I am in a confortable environment, quiet, without stress, less emotions to make better decisions and better profits
 
 
 
@@ -165,6 +139,10 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
 
 - Avoid Pin Bar that doesn't show a price rejection evidence
 
+### Identify Major Zones
+
+
+
 ### Identify Market Trend: 
 
 - Switch to WEEKLY Chart: Draw Trendlines only touching at least 2 wicks (parallel)
@@ -200,6 +178,7 @@ Factors of Confluence:
 - Large Round Numbers: Pay attention to large round numbers closed to a Pin Bar (historically)
 - Pivot Points (PP): 
 - Check Swissquote PinBar Indicator visual (if any)
+- Check Ichimoku Cloud indicator
 
 Moving Averages are used to gauge the direction and strength of the trend - They are dynamic SR Levels. price religiously bounces off certain EMAs during retraces.
 
@@ -211,6 +190,7 @@ Moving Averages are used to gauge the direction and strength of the trend - They
   * WE TRADE between (0 - 20) - OVERBOUGHT Market (near RESISTANCE)
   * WE TRADE between (80 - 100) - OVERSOLD Market (near SUPPORT)
   * Otherwise WE DONT TRADE
+- Ichimoku (6,13,26,13) Color Red, Blue
 
 ### CONFLUENCE Examples: 
 - Strong UpTrend + PullBack to 21EMA + Fib 50% Level + Pin Bar 
@@ -388,40 +368,3 @@ Monthly Max Drawdown: 400 CHF, Weekly Max Drawdown: 100 CHF, Daily Max Drawdown:
 - Decide if my trading system still work
 - Review my psychology when trading (Positive Mindset, Be Fit to Trade)
 
-## Losses
-
-### Dumb Losses / Unforced Errors
-- Adding to a loser trade
-- Breaking the rules
-- Taking Too much risk
-- Widening a stop loss
-- Moving a stop loss to break-even too noon
-
-### Good Losses
-- Following the rules
-- Steeting a STOP LOSS
-- Sizing correctly
-- Taking the LOSS
-- Moving ON
-
-
-## TRADING SUCCESS
-
-UNDERSTAND
-PLAN
-EXECUTE
-
-1- PREPARE (1 Week)
- - Look & Observe
- - Listen
- - Learn
-
-2. PRACTISE (7 Weeks)
- - Demo Account
- - Losses are Natural
- 
-3. PROVE (4 Weeks)
- - Consistent Cashflow
- - Go Live
-
-## Contingency Planning
