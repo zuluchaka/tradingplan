@@ -8,7 +8,7 @@
 My current GOAL is to:
 - Improve my family lifestyle
 - Payoff my existing debts completely
-- Afford Family vacations$
+- Afford Family vacations
 - Reinvest
 
 ## 2019 GOAL
@@ -29,7 +29,7 @@ My current trading GOAL is to:
 
 ## Time commitment
 
-I will spend additional 7h per week for my FOREX trading business
+I will spend additional 10h per week for my FOREX trading business
 
 ## Funds commitment
 
@@ -53,11 +53,9 @@ At the end of each week/month , I will review my trading journal (provided by Br
 ## PRE-SESSION ROUTINE
 
 To bring consistency and predictability, i will verify that:
-- I am in a confortable environment and quiet, without stress, less emotions to make better decisions and better profits
+- I am in a confortable environment, quiet, without stress, less emotions to make better decisions and better profits
 
-## Currency Cycles
-- NZD, AUD, JPY - 15 mins
-- GBP, EUR, CAD, USD - 30 mins
+
 
 ## Priority Trading
 
@@ -91,56 +89,29 @@ Identification of the Optimal Pairs to Trade and Optimal Entry
    * JPY Basket : AUDJPY, CADJPY, CHFJPY, EURJPY, GBPJPY, NZDJPY, USDJPY, ------
  
 - Commodities: XAUUSD (Gold)
-- Indices: US30, SP500, ...
+- Indices: US30, GER30, ...
 
-## 20-Charts Layout
-Browser zoom at 67%
 
-https://www.multicoincharts.com/?chart=EURAUD&chart=EURCAD&chart=EURGBP&chart=EURNZD&chart=EURUSD&chart=AUDJPY&chart=CADJPY&chart=EURJPY&chart=NZDJPY&chart=USDJPY&chart=GBPAUD&chart=GBPCAD&chart=GBPJPY&chart=GBPNZD&chart=GBPUSD&chart=AUDUSD&chart=USDCAD&chart=USDJPY&chart=NZDUSD&chart=EURUSD&
-
-* EURAUD, EURCAD, EURGBP, EURNZD, EURUSD
-* AUDJPY, CADJPY, EURJPY, NZDJPY, USDJPY
-* GBPAUD, GBPCAD, GBPJPY, GBPNZD, GBPUSD
-* AUDUSD, USDCAD, USDJPY, NZDUSD, EURUSD
-
-Exple AU/ and UJ/
-![20CHART](https://github.com/zuluchaka/tradingplan/blob/master/20charts_29032019_23_00_AU_long_UJ_long.png)
 
 
 ## Trading sessions (My Business Hours)
 
 ### My Trading Day 
 
-- Before Asian Session:  
+ 
     * Sunday: 20:00 - 22h00 -  Fundamental Analysis (FAL) 
-    * Sunday: 23:00 - 00h00 - Review Big Belt Strategy Results
-    * Monday - Friday: 5h30-6h30 - Scalp + Currency Strength Analysis (Execution) + London Brakeout Strategy (preparation)
+    * Sunday: 23:00 - 00h00 - PinBar Analysis
+    * Monday - Friday: 23:00 - 00:00 Analysis  + Entry, 06h:00 -07h:00 Review
 
-- Before London Session: 
-    * Monday - Friday: 22h00 - 00h00 - PinBar Analysis (preparation)
     
-- London + New York Sessions:
-    * Monday - Friday: 10h00 - 11h00 - London Breakout Strategy (execution)
-    * Monday - Friday:  Management of Swing trades (Pin Bar Strategy)
-    
-- Before End of New York Session:
-    * Friday: 22h:00 - Big Belt Strategy (preparation)
-    
-DO NOT ENTER TRADES DURING OTHER SESSIONS
-
-### Scheduled time for Education
-- 1H per day from 22h-23h
 
 ## 1. IDENTIFY A TRADE
 
-### SWOT ANALYSIS
 
-![SWOT](https://github.com/zuluchaka/tradingplan/blob/master/SWOT_trading.png)
 
-### MARKET ANALYSIS - Fundamental Analysis & Logistics
+### MARKET ANALYSIS - Fundamental Analysis 
 #### Timeframes
 
-- 1H
 - 4H
 - Daily
 
@@ -170,38 +141,6 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
  
  - Look at the ForexTrack application for Currency Strength Analysis: https://tracking.csa5steps.com/
 
-
-#### Logistics ANALYSIS (FAL2)
-  * Logistics: 
-  * Playbook analysis :https://tracking.csa5steps.com/
-    - Market weekly/daily view records = What market has been doing
-  * Currency Cycles Records
-    - Tracking currency cycles, strength or weaknesses every 5 min, 30min, 1H, 4H (For selected currencies)
-  * Trading Records
-    - Track every trade (Demo, Live): all information about the trade including why I got IN and OUT to understand its performance 
-  * Trading Plan (To FOLLOW)
-    - To understand my performance as a Trader
-
-#### Currency Strength Analysis (CSA)
-  * Single Currencies analysis
-  * Strength Vs Weakness
-  * Optimal Pairing
-  * Currency Cycles
-  
-#### Volume Price Analysis (VPA)
-  * Price can be manipulated (We need to make the difference : Manipulation of price Vs real Volume)
-  * Volume cannot be hidden
-  * Volume of Transactions move Price
-  * BIG Money tracks Volume
-  
-#### Volume Spread Analysis (VSA)
-
-  * Highly Sophisticated Volume Analysis
-  * More than 400 nuances of Volume Behaviour
-  * For Professional traders
-  * Requires dedicated learning and expensive tools
-
-### TPO
 
 ### MARKET ANALYSIS - Technical Analysis 
 
