@@ -27,69 +27,49 @@ I will spend additional 10h per week for my FOREX trading business
 I currently a trading Account:
 - Broker Swissquote: 
   * Account 622021, Leverage 1:100
+- Broker JAFX:
+  * Account 165931, Leverage: 1:50
   
 
 
+## Currency pairs, Commodities, Indices to trade
 
-## Priority Trading
-
-- OPEN Market Vs CLOSED Market
-- OPEN Market Vs OPEN Market
-- CLOSED Market Vs CLOSED Market
-
-LONDON: (08:00 - 13:00): Look for pairs GBPUSD, GBPCAD, GBPNZD, GBPAUD, GBPJPY, EURUSD, EURCAD, EURNZD, EURAUD, and EURJPY 
- - OPEN : GBP, EUR
- - CLOSED: USD, CAD, NZD, AUD, JPY
-
-NEWYORK/LONDON : (13:00 - 17:00): Look for pairs EURUSD, EURCAD, EURGBP, GBPCAD, GBPUSD, USDCAD
-- OPEN: USD, CAD, GBP, EUR
-- CLOSED: NZD, AUD, JPY
-
-NEWYORK: (17:00 - 22:00): Look for pairs EURGBP, EURNZD, EURAUD, EURJPY, GBPNZD, GBPAUD, GBPJPY, NZDJPY, AUDNZD
-- OPEN: USD, CAD
-- CLOSED: GBP, EUR, NZD, AUD, JPY
-
-## currency pairs
-Identification of the Optimal Pairs to Trade and Optimal Entry
 - All 8 Major FX pairs: (AUD, CAD, CHF, EUR, GBP, NZD, USD, JPY) and their corresponding Baskets:
 
-   * AUD Basket : ------, AUDCAD, AUDCHF, EURAUD, GBPAUD, AUDNZD, AUDUSD, AUDJPY
-   * CAD Basket : AUDCAD, ------, CADCHF, EURCAD, GBPCAD, NZDCAD, USDCAD, CADJPY
-   * CHF Basket : AUDCHF, CADCHF, ------, EURCHF, GBPCHF, CHFNZD, USDCHF, CHFJPY
+   * AUD Basket : ------, AUDCAD, AUDCHF, ------, ------, AUDNZD, AUDUSD, AUDJPY
+   * CAD Basket : ------, ------, CADCHF, ------, ------, ------, ------, CADJPY
+   * CHF Basket : ------, ------, ------, ------, ------, ------, ------, CHFJPY
    * EUR BAsket : EURAUD, EURCAD, EURCHF, ------, EURGBP, EURNZD, EURUSD, EURJPY
-   * GBP Basket : GBPAUD, GBPCAD, GBPCHF, EURGBP, ------, GBPNZD, GBPUSD, GBPJPY
-   * NZD Basket : AUDNZD, NZDCAD, NZDCHF, EURNZD, GBPNZD, ------, NZDUSD, NZDJPY
-   * USD Basket : AUDUSD, USDCAD, USDCHF, EURUSD, GBPUSD, NZDUSD, ------, USDJPY
-   * JPY Basket : AUDJPY, CADJPY, CHFJPY, EURJPY, GBPJPY, NZDJPY, USDJPY, ------
+   * GBP Basket : GBPAUD, GBPCAD, GBPCHF, ------, ------, GBPNZD, GBPUSD, GBPJPY
+   * NZD Basket : ------, NZDCAD, NZDCHF, ------, ------, ------, NZDUSD, NZDJPY
+   * USD Basket : ------, USDCAD, USDCHF, ------, ------, ------, ------, USDJPY
+   * JPY Basket : ------, ------, ------, ------, ------, ------, ------, ------
  
 - Commodities: XAUUSD (Gold)
 - Indices: US30, GER30, ...
-
-
 
 
 ## Trading sessions (My Business Hours)
 
 ### My Trading Day 
 
- 
-    * Sunday: 20:00 - 22h00 -  Fundamental Analysis (FAL) 
     * Sunday: 23:00 - 00h00 - PinBar Analysis
-    * Monday - Friday: 23:00 - 00:00 Analysis  + Entry, 06h:00 -07h:00 Review
+    * Monday - Friday: 23:00 - 00:00 Pin Bar Analysis  + Entry, 06h:00 - 07h:00 and 12h - 13h Review
 
-    
+
 
 ## 1. IDENTIFY A TRADE
 
 
 
-### MARKET ANALYSIS - Fundamental Analysis 
+### MARKET ANALYSIS - Pin Bar Analysis 
 #### Timeframes
 
+- 1H
 - 4H
 - Daily
 
-Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) to analyze price movement against the trend
+Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) to analyze price movement 
 
 #### Fundamental ANALYSIS (FAL1)
   -  check Economic Calendar for any impact News for the WEEK about the Pair and trading session 
@@ -116,7 +96,7 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
  - Look at the ForexTrack application for Currency Strength Analysis: https://tracking.csa5steps.com/
 
 
-### MARKET ANALYSIS - Technical Analysis 
+### MARKET ANALYSIS - Technical Analysis  - PINBAR ANALYSIS
 
 - Trading System: Bullish/Bearish Pin Bar Reversal Candlestick (Kangaroo Tail)
 
@@ -124,7 +104,33 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
 ![Pin Bar](https://forextraininggroup.com/wp-content/uploads/2016/07/Pin-Bar-Structure.png)
 
 
-### Validity Pin Bar:
+### Identify Major Zones
+
+- Draw Major Support & Resistance Zones on the chart.
+
+### Identify Current Market Status: 
+- Trending Market (Uptrend, DownTrend)
+- Randing Market
+- Choppy Market
+
+
+### Identify Support and Resistance Levels: 
+
+- Switch to WEEKLY Chart: Draw Trendlines only touching at least 2 wicks (parallel)
+
+- Switch to DAILY LINE CHART: Draw  Major & Minor (INTRA) Support & Resistance Zones
+
+ * IF current Price > 200 EMA THEN UPTREND. => Look for a BUY (The Trend is MY Friend!!!!!)
+ * IF current Price < 200 EMA THEN DOWNTREND => Look for a SELL (Don't Trade against the trend)
+
+ look for DOUBLE BOTTOM : MAJOR SUPPORT + MAJOR SUPPORT TRENDLINE
+ look for DOUBLE TOP: MAJOR RESISTANCE + MAJOR RESISTANCE TRENDLINE
+ 
+ ALWAYS TRADE NEAR AN AREA OF SUPPORT / RESISTANCE
+ 
+
+### REVERSAL PATTERN : Kangaroo Tail 
+
 - The long wick should be at least 2-3 times the length of the body of the candlestick
 - The body should be larger than previous bars range
 - The body should be present towards either the upper or lower extreme of the Pin Bar
@@ -139,33 +145,6 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
 
 - Avoid Pin Bar that doesn't show a price rejection evidence
 
-### Identify Major Zones
-
-
-
-### Identify Market Trend: 
-
-- Switch to WEEKLY Chart: Draw Trendlines only touching at least 2 wicks (parallel)
-
-- Switch to DAILY LINE CHART: Draw  Major & Minor (INTRA) Support & Resistance Zones
-
- * IF current Price > 200 EMA THEN UPTREND. => Look for a BUY (The Trend is MY Friend!!!!!)
- * IF current Price < 200 EMA THEN DOWNTREND => Look for a SELL (Don't Trade against the trend)
-
- look for DOUBLE BOTTOM : MAJOR SUPPORT + MAJOR SUPPORT TRENDLINE
- look for DOUBLE TOP: MAJOR RESISTANCE + MAJOR RESISTANCE TRENDLINE
- 
- ALWAYS TRADE NEAR AN AREA OF SUPPORT / RESISTANCE
- 
-### Identify Current Trend Status: 
-- Beginning
-- Ongoing
-- Ending
-
- 
-### CONTINUATION PATTERN: 
-- Ignore PinBar formed against the current trend
-- Ignore PinBar at least 4 times larger than previous candlesticks range
 
 ## Indicators Used for Confluence (Focus on QUALITY SETUPS)
 Factors of Confluence:
@@ -192,6 +171,12 @@ Moving Averages are used to gauge the direction and strength of the trend - They
   * Otherwise WE DONT TRADE
 - Ichimoku (6,13,26,13) Color Red, Blue
 
+### CONTINUATION PATTERN: 
+- Ignore PinBar formed against the current trend
+- Ignore PinBar at least 4 times larger than previous candlesticks range
+
+
+
 ### CONFLUENCE Examples: 
 - Strong UpTrend + PullBack to 21EMA + Fib 50% Level + Pin Bar 
 - Strong UpTrend + PullBack to 21EMA + S&R level + Bullish Pin Bar
@@ -210,22 +195,11 @@ Moving Averages are used to gauge the direction and strength of the trend - They
 
 !!! DO NOT ENTER TRADES FROM MOBILE DURING THE DAY !!!!
 
-
-#### Method1: Aggressive Entry Option: 
-- Immediately after the Pin Bar closes, without waiting for a confirmation - we catch move at the beginning based on :
-   * The Trend: UPTREND / DOWNTREND
-   * Pin Bar formed at a Support / Resistance Level
-   * Pin Bar formed after a retracement
    
-#### Method2: Enter ON STOP - Entry Option:
+#### Enter ON STOP - Entry Option:
 - STOP Order1: Place BUY/SELL STOP ORDER a small distance (2-3 pips) beyond/above the high/low of the Pin Bar (knowing that the price has moved in the direction of profit before placing the trade).
 - STOP Order2: Place SELL/BUY STOP ORDER a small distance (2-3 pips) beyond/above the high/low of the Pin Bar (in case of reversal)
 - Delete STOP order that is not triggered after price movement (Immediately)
-
-#### Method3: 50% Pin Bar Retrace - Conservative Entry Option: 
-- Enter after 50% of  the range bar retracement - We decrease our risk and increase our reward (there is a Risk of missing the ENTRY)
-- BUY/SELL LIMIT ORDER at 50% Pin Bar Retracement (May miss some ENTRY opportunities if price don't retrace)
-
 
 
 ### Money Management - Conditions to enter (REASONS NOT to TRADE): 
@@ -319,7 +293,7 @@ The most important thing to do as a trader. Not every trade is a winner.
 - Trade turns agains me anf volume drops
 - Chart is moving strongly in my direction, supported by Volume
 
-### GET OUT or STAY IN?
+
 
 
 ## POST SESSION ROUTINE
