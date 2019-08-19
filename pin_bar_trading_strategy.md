@@ -1,26 +1,24 @@
 
-# My Pin Bar Trading Plan
+# KangarooTail Trading Plan
 #### Approach the market with more objectivity and structure - A Business plan for my trading career
 
 
 ## 2019 GOAL
 
-Consistently making profit from FOREX Trading by growing my invested amount by at least 100 pips per day and becoming as experienced as a professional Trader
+Consistently making profit from FOREX Trading by growing my invested amount by at least 100 pips per day and becoming a professional Trader
 
 
 ## Trading GOAL  
 
-My current trading GOAL is to: 
-- Improve my trading STYLE, RISK and MONEY management
-- Win a CONSISTENT number of pips :
-    * Per trade: 100 pips
-     
-- Improve my trade success rate / trade efficiency
+My current trading GOAL is to Grow my Accounts By: 
+- Improving my trading STYLE, RISK and MONEY management
+- Consistently Winning at least CONSISTENT 100 pips per trade  
+- Improving my trade success rate / trade efficiency
 
 
 ## Time commitment
 
-I will spend additional 10h per week for my FOREX trading business
+I will spend additional 10h per week for my FOREX trading business (Back Testing my Strategy)
 
 ## Funds commitment
 
@@ -65,14 +63,14 @@ I currently a trading Account:
 ### MARKET ANALYSIS - Pin Bar Analysis 
 #### Timeframes
 
-- 1H
-- 4H
-- Daily
+   * 1H
+   * 4H
+   * Daily
 
 Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) to analyze price movement 
 
 #### Fundamental ANALYSIS (FAL1)
-  -  check Economic Calendar for any impact News for the WEEK about the Pair and trading session 
+  -  check Economic Calendar for any impact News for the WEEK/DAY about the Pair and trading session 
   - https://www.myfxbook.com/forex-economic-calendar or 
   - https://www.forexfactory.com/calendar.php   or
   - https://www.fxstreet.com/economic-calendar
@@ -108,56 +106,63 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
 
 - Draw Major Support & Resistance Zones on the chart.
 
-### Identify Current Market Status: 
-- Trending Market (Uptrend, DownTrend)
+### Identify Current Market Structure (The TREND): 
+Determine the Market structure on 4H, Daily, and Weekly timeframes
+- Trending Market
+    * UPTrend (BULLISH) and Price ABOVE 200 EMA => Look for a BUYING opportunity at the beginning of IMPULSIVE Move, Take Profit at the End of it
+    * DownTrend (BEARISH) and Price BELOW 200 EMA => Look for a SELLING Opportunity at the beginning of IMPULSIVE Move, Take Profit at the End of it
 - Randing Market
-- Choppy Market
+- Choppy Market => DO NOT TRADE!!!
 
 
-### Identify Support and Resistance Levels: 
+### Identify TrendLines (The LEVELS)
 
-- Switch to WEEKLY Chart: Draw Trendlines only touching at least 2 wicks (parallel)
+- In a TRENDING MARKET:
+  * Switch to WEEKLY Chart: Draw Trendlines only touching at least 2 Swing Points wicks (parallel) => Next Impulse Move
+- In a RANDING MARKET:
+  * Market moves horizontally between key support and resistance levels
+
+### Identify Support and Resistance Levels (The LEVELS): 
+
+Retracement move respects previous swing point (support or resistance level) => Next Impulse Move
 
 - Switch to DAILY LINE CHART: Draw  Major & Minor (INTRA) Support & Resistance Zones
 
- * IF current Price > 200 EMA THEN UPTREND. => Look for a BUY (The Trend is MY Friend!!!!!)
- * IF current Price < 200 EMA THEN DOWNTREND => Look for a SELL (Don't Trade against the trend)
+ * look for DOUBLE BOTTOM : MAJOR SUPPORT + MAJOR SUPPORT TRENDLINE
+ * look for DOUBLE TOP: MAJOR RESISTANCE + MAJOR RESISTANCE TRENDLINE
+  
 
- look for DOUBLE BOTTOM : MAJOR SUPPORT + MAJOR SUPPORT TRENDLINE
- look for DOUBLE TOP: MAJOR RESISTANCE + MAJOR RESISTANCE TRENDLINE
- 
- ALWAYS TRADE NEAR AN AREA OF SUPPORT / RESISTANCE
- 
+### REVERSAL PATTERN : Kangaroo Tail (The SIGNAL)
 
-### REVERSAL PATTERN : Kangaroo Tail 
+To take a trade on 4H chart, make sure that the DAILY chart and WEEKLY chart align (TOP DOWN ANALYIS).
 
-- The long wick should be at least 2-3 times the length of the body of the candlestick
-- The body should be larger than previous bars range
-- The body should be present towards either the upper or lower extreme of the Pin Bar
-- The wick should stand out when compared to previous bars (with room to the left)
-- Pin Bar will affect immediately following 4-5 bars
-- Pin Bar should print at a Support and Resistance:
- * Candle rejection: The wick touches the support/resistance but the body don't
- * Ideally at the end of an impulsive move and may indicate the beginning of a reversal price momentum
-- Pin Bar that appear/close in direction of the Trend
- * IF UPTREND then BULLISH Pin Bar closes higher than the open.
- * IF DOWNTREND then BEARISH Pin Bar closes lower than the open.
+Validity of a Kangaroo Tail:
 
-- Avoid Pin Bar that doesn't show a price rejection evidence
+* The long wick should be at least 2-3 times the length of the body of the candlestick
+* The body should be larger than previous bars range
+* The body should be present towards either the upper or lower extreme of the Pin Bar
+* The wick should stand out when compared to previous bars (with room to the left)
+* Pin Bar will affect immediately following 4-5 bars
+* Pin Bar should print at a Support and Resistance:
+ ** Candle rejection: The wick touches the support/resistance but the body don't
+ ** Ideally at the end of an impulsive move and may indicate the beginning of a reversal price momentum
+* Pin Bar that appear/close in direction of the Trend
+ ** IF UPTREND then BULLISH Pin Bar closes higher than the open.
+ ** IF DOWNTREND then BEARISH Pin Bar closes lower than the open.
+* Wait for a Pinn Bar to occur after a PullBack to support or resistance level (end of retracement move)
+Avoid Pin Bar that doesn't show a price rejection evidence
 
 
-## Indicators Used for Confluence (Focus on QUALITY SETUPS)
-Factors of Confluence:
-- Trade in the direction of the Trend
-- Price currently at a Support/Resistance Level, Supply & Demand Zones
-- Moving Averages cross, touch (Dynamic Support & Resistance zones) - 8SMA, 21SMA, 89SMA, 50EMA and 200EMA
-- Price at a Fibonacci Retracements (Based on Top and Bottom of most recent TREND)
-- Trendlines: After drawing it , wait for price to retrace back to it
-- Bolinger Bands : If price are rejected (PinBar) from the major levels and from the Bands it is a confirmation
-- Large Round Numbers: Pay attention to large round numbers closed to a Pin Bar (historically)
-- Pivot Points (PP): 
-- Check Swissquote PinBar Indicator visual (if any)
-- Check Ichimoku Cloud indicator
+### CONFLUENCE - Indicators Used for Confirmation (Focus on QUALITY SETUPS)
+Factors of Confluence: At least 2 Factors of confluence are engouh to take the trade
+
+* Trade in the direction of the Trend
+* Price currently at a Support/Resistance Level, Supply & Demand Zones
+* Moving Averages cross, touch (Dynamic Support & Resistance zones) - 8SMA, 21SMA, 89SMA, 50EMA and 200EMA
+* Price at a Fibonacci Retracements (Based on Top and Bottom of most recent TREND - 50%, 61%)
+* Trendlines: After drawing it , wait for price to retrace back to it
+* Bolinger Bands : For Ranging Market If price are rejected (PinBar) from the major levels and from the Bands it is a confirmation 
+* Check Ichimoku Cloud indicator
 
 Moving Averages are used to gauge the direction and strength of the trend - They are dynamic SR Levels. price religiously bounces off certain EMAs during retraces.
 
@@ -198,7 +203,7 @@ Moving Averages are used to gauge the direction and strength of the trend - They
    
 #### Enter ON STOP - Entry Option:
 - STOP Order1: Place BUY/SELL STOP ORDER a small distance (2-3 pips) beyond/above the high/low of the Pin Bar (knowing that the price has moved in the direction of profit before placing the trade).
-- STOP Order2: Place SELL/BUY STOP ORDER a small distance (2-3 pips) beyond/above the high/low of the Pin Bar (in case of reversal)
+- STOP Order2: Place SELL/BUY STOP ORDER a small distance (30%) beyond/above the high/low of the Pin Bar (in case of reversal)
 - Delete STOP order that is not triggered after price movement (Immediately)
 
 
@@ -230,10 +235,6 @@ Place a stop to cover your bases in case my predictions about where the price wi
 ![STOPLOSS](https://github.com/zuluchaka/tradingplan/blob/master/stop_loss_place.png)
 
 
-#### Method1: At 50% of Pin Bar Range
-#### Method2: 2-3 pips Beyond Pin Bar High/Low (Check impact on lot size, may need to reduce it)
-
-Once the trade moves 2 or more pips in my favour bring my STOP LOSS to BREAK EVEN
 
 ### POSITION SIZE (Trade Size !!!!) - 
 
@@ -249,7 +250,7 @@ $ at risk = Pips at risk X Pips Value X Lots traded.     => Lots Traded = $ at r
 
 Example: 
 - Account size : $1k  ( account in USD)
-- Pips at risk on trade: $30(3%)   
+- $ at risk on trade: $30(3%)   
 - Pips value = 25 pips SL 
 Pair: EURUSD
 
@@ -261,7 +262,7 @@ USE : https://www.myfxbook.com/forex-calculators/position-size
 
 ### TAKE PROFIT
 The most important thing to do as a trader. Not every trade is a winner. 
-#### Method1. TP at nearest Support/resistance zone inside previous bar range (Low Risk) - (FAKE, easily broken. too early)
+#### Method1. TP at nearest Support/resistance zone inside previous bar range (Low Risk)
 #### Method2. TP at previous bars LOW or HIGH (Medium Risk, risk reward ration: should be minimum 1:1.5)
 #### Method3. TP at nearest insterest level outside previous bar range 
 #### Method4. Parabolic SAR: Hold Trade in Profit until the DOT of the Parabolic SAR appear in the reverse direction of the current trend
