@@ -112,10 +112,14 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
 
 ### Identify TrendLines (The LEVELS)
 
-- In a TRENDING MARKET:
-  * Switch to WEEKLY Chart: Draw Trendlines only touching at least 2 Swing Points wicks (parallel) => Next Impulse Move
+- In a TRENDING MARKET: Draw it on MONTHLY, WEEKLY, DAILY, 4h and 1H Chart
+  * Identify and Connect obvious PEAKS and TROUGHS, drawing outer trendlines.
+  * The 2  significant LOWS/PEAKS where the trendline is drawn from must be obvious and easy to identify - LOW1/PEAK1 and LOW2/PEAK2
 - In a RANDING MARKET:
   * Market moves horizontally between key support and resistance levels
+
+- A Trendline is VALID as long as it is not intersected SIGNIFICANTLY and Price continues to obey it. 
+- A Trendline is INVALID when it is interesected SIGNIFICANTLY (THe trend has probably changed) - Verify if the candlestick that interstected the trendline closed ABOVE or BELOW it on 1H and 4H chart
 
 ### Identify Support and Resistance Levels (The LEVELS): 
 
