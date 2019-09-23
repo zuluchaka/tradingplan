@@ -89,7 +89,7 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
   - Research and Analysis:
   * https://www.centralbanking.com/ 
   
-  ##### High Impact News on GBP and USD (DO NOT TRADE THIS STRATEGY on NEWS)
+  ##### High Impact News on GBP and USD (<u>DO NOT TRADE THIS STRATEGY on NEWS </u>)
      > Preliminary GDP
      > Retails Sales
      > CPI
