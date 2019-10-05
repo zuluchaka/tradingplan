@@ -207,43 +207,27 @@ Validity of a Kangaroo Tail:
 
 
 
-### CONFLUENCE - Indicators Used for Confirmation (Focus on QUALITY SETUPS)
-Factors of Confluence: At least 2 Factors of confluence are engouh to take the trade
+### CONFLUENCE - Indicators Used for Confirmation (Focus on HIGH PROBABILITY SETUPS)
+
+> Factors of Confluence: At least 3 Factors of confluence are engouh to take the trade
 
 * Trade in the direction of the Trend
-* Price currently at a Support/Resistance Level, Supply & Demand Zones
-* Moving Averages cross, touch (Dynamic Support & Resistance zones) - 8SMA, 21SMA, 89SMA, 50EMA and 200EMA
-* Price at a Fibonacci Retracements (Based on Top and Bottom of most recent TREND - 50%, 61%)
-* Trendlines: After drawing it , wait for price to retrace back to it
+* Price currently AT a Support/Resistance Level, Supply & Demand Zones
+* Moving Averages CROSSES, TOUCHES (Dynamic Support & Resistance zones) 
+   > Parameters : 8SMA, 21SMA, 89SMA, 50EMA and 200EMA
+* Price at a Fibonacci Retracements
+   > Parameters:  23%, 38%, 50%, 61% Retracement lines
+* Trendlines: After drawing it , WAIT for price to retrace back to it
 * Bolinger Bands : For Ranging Market If price are rejected (PinBar) from the major levels and from the Bands it is a confirmation 
-* Check Ichimoku Cloud indicator
-
-Moving Averages are used to gauge the direction and strength of the trend - They are dynamic SR Levels. price religiously bounces off certain EMAs during retraces.
-
-- SMA(8, 21, 89)
-- EMA(50, 200) - reacts more quickly to recent price events than SMA
-- Fibonacci Retracement: 38.2, 50 and 61.8 are the most important levels for Pin Bar. Trade it in confluence with MA and EMA.
-- Pivot Points
-- Stochastic (Correlated to SUPPORT/RESISTANCE) DAILY Chart: 
-  * WE TRADE between (0 - 20) - OVERBOUGHT Market (near RESISTANCE)
-  * WE TRADE between (80 - 100) - OVERSOLD Market (near SUPPORT)
-  * Otherwise WE DONT TRADE
-- Ichimoku (6,13,26,13) Color Red, Blue
-
-### CONTINUATION PATTERN: 
-- Ignore PinBar formed against the current trend
-- Ignore PinBar at least 4 times larger than previous candlesticks range
-
-
-
-### CONFLUENCE Examples: 
-- Strong UpTrend + PullBack to 21EMA + Fib 50% Level + Pin Bar 
-- Strong UpTrend + PullBack to 21EMA + S&R level + Bullish Pin Bar
-- UpTrend + PullBack to 50EMA + Fibo 50% Level + S&R Level + Pin Bar
-- DownTrend + PullBack to 50EMA + Fibo 50% Level + S&R Level + Pin Bar
-- DownTrend + Pullback to Pivot + Fibo 78.6% Level + Pin Bar
-
-
+* Check Ichimoku Cloud indicator: Cloud rejection, TK CROSS + Trend on upper timeframe
+   > Parameters: (Conversion Line 6 RED, Base Line 13 BLUE, Span 26, displacement 13) 
+* Pivot Points
+* Stochastic (Correlated to SUPPORT/RESISTANCE): 
+  > Parameters: (14,3,3)
+  - WE TRADE between (0 - 20) - OVERBOUGHT Market (near RESISTANCE)
+  - WE TRADE between (80 - 100) - OVERSOLD Market (near SUPPORT)
+  - Otherwise WE DONT TRADE
+ 
 
 
 ## 2. EXECUTE A TRADE 
