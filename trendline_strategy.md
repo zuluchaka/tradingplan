@@ -124,45 +124,35 @@ The 2  significant LOWS/PEAKS where the trendline is drawn from must be obvious 
 
   * Market moves horizontally between key support and resistance levels
 
-- A Trendline is VALID as long as it is not intersected SIGNIFICANTLY and Price continues to obey it. 
+> VALIDITY of a TRENDLINE
 
-- A Trendline is INVALID when it is interesected SIGNIFICANTLY (THe trend has probably changed) - 
+- A Trendline is VALID as long as it is NOT intersected SIGNIFICANTLY and Price continues to obey it. 
+
+- A Trendline is INVALID when it is interesected SIGNIFICANTLY (The trend has probably changed) - 
   Verify if the candlestick that interstected the trendline closed ABOVE or BELOW it on 1H and 4H chart
-
-### Identify Support and Resistance Levels (The LEVELS): 
-
-Retracement move respects previous swing point (support or resistance level) => Next Impulse Move
-
-- Switch to DAILY LINE CHART: Draw  Major & Minor (INTRA) Support & Resistance Zones
-
- * look for DOUBLE BOTTOM : MAJOR SUPPORT + MAJOR SUPPORT TRENDLINE
- * look for DOUBLE TOP: MAJOR RESISTANCE + MAJOR RESISTANCE TRENDLINE
+  
   
 
+### IDENTIFY SUPPORT and RESISTANCE LEVELS 
 
-### REVERSAL PATTERN : Kangaroo Tail (The SIGNAL)
 
-To take a trade on 4H chart, make sure that the DAILY chart and WEEKLY chart align (TOP DOWN ANALYIS).
+> INSTITUTIONAL Support and resistance levels: 
 
-Validity of a Kangaroo Tail:
+Draw it Every 20, 50, 80, 100 and 200 pips.
 
-* The long wick should be at least 2-3 times the length of the body of the candlestick
-* The body should be larger than previous bars range
-* The body should be present towards either the upper or lower extreme of the Pin Bar
-* The wick should stand out when compared to previous bars (with room to the left)
-* Pin Bar will affect immediately following 4-5 bars
-* Pin Bar should print at a Support and Resistance:
- ** Candle rejection: The wick touches the support/resistance but the body don't
- ** Ideally at the end of an impulsive move and may indicate the beginning of a reversal price momentum
-* Pin Bar that appear/close in direction of the Trend
- ** IF UPTREND then BULLISH Pin Bar closes higher than the open.
- ** IF DOWNTREND then BEARISH Pin Bar closes lower than the open.
-* Wait for a Pinn Bar to occur after a PullBack to support or resistance level (end of retracement move)
-Avoid Pin Bar that doesn't show a price rejection evidence
+> Hidden Support and Resistance Levels
+
+Draw Pivot Points and Fibonacci Retracement and Projection Levels
+
+> Dynamic Support and Resistance Levels
+
+Add Exponential Moving Averages to Chart : EMA20, EMA50 and EMA200
+
+> Dynamic Trendlines  
 
 
 
-### MARKET ANALYSIS - Technical Analysis  - TRENDLINE ANALYSIS
+### MARKET ANALYSIS - Technical ANALYSIS
 
 ##### Trading System: 7 Reversal / Continuation Candlesticks Patterns
 
@@ -184,6 +174,22 @@ Avoid Pin Bar that doesn't show a price rejection evidence
 
 
 > The Hammer and Shooting Star
+
+Validity of a Kangaroo Tail:
+
+>>  The long wick should be at least 2-3 times the length of the body of the candlestick
+>> The body should be larger than previous bars range
+>> The body should be present towards either the upper or lower extreme of the Pin Bar
+>> The wick should stand out when compared to previous bars (with room to the left)
+>> Pin Bar will affect immediately following 4-5 bars
+>> Pin Bar should print at a Support and Resistance:
+>> Candle rejection: The wick touches the support/resistance but the body don't
+>> Ideally at the end of an impulsive move and may indicate the beginning of a reversal price momentum
+>> Pin Bar that appear/close in direction of the Trend
+>> IF UPTREND then BULLISH Pin Bar closes higher than the open.
+>> IF DOWNTREND then BEARISH Pin Bar closes lower than the open.
+>> Wait for a Pinn Bar to occur after a PullBack to support or resistance level (end of retracement move)
+>> Avoid Pin Bar that doesn't show a price rejection evidence
 
 ![HAMMER](https://github.com/zuluchaka/tradingplan/blob/master/hammer.png)
 ![SHOOTINGSTAR](https://github.com/zuluchaka/tradingplan/blob/master/shootingstar.png)
