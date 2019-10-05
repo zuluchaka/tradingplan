@@ -232,25 +232,81 @@ Validity of a Kangaroo Tail:
 
 ## 2. EXECUTE A TRADE 
 
-### ORDER ENTRY CONDITIONS 
+
 
 !!! DO NOT ENTER 'MARKET EXECUTION' ORDERS !!!!
 
 !!! DO NOT ENTER TRADES FROM MOBILE DURING THE DAY !!!!
 
+### ORDER ENTRY
+
+
+#### STOP LOSS Definition
+
+> SL is 30 pips
+
+Place a stop to cover my bases in case my predictions about where the price will go is completely wrong.  
+
+![STOPLOSS](https://github.com/zuluchaka/tradingplan/blob/master/stop_loss_place.png)
+
+#### TAKE PROFIT Definition
+
+
+The most important thing to do as a trader. Not every trade is a winner. 
+> TP1 and TP2 at nearest Support/resistance zone inside previous bar range (Low Risk)
+
+
+> PARTIAL PROFIT:
+- Take 50% of profit at TP1
+- Take 75 - 100% profit at TP2 or TP3 (Only do this after moving STOP LOSS to BREAK EVEN)
+
+
+#### POSITION SIZE CALCULATION
+
+Take the appropriate risk for the trade (Not too High, Not too Low). This is the number of lots (micro, mini or standard)
+
+> Account weekly Risk: 10%   
+
+> Trade Risk: 3%  (Max 6 Daily trades). 
+
+> SL is 30 pips
+
+> Calculation of the AMOUNT at risk on the trade
+
+$ at risk = (Pips at risk) X (Pips Value) X Lots traded.     
+Hence Lots Traded = $ at risk / (Pips at risk X Pips Value)
+
+> Example: 
+- Account size : $1k  ( account in USD)
+- $ at risk on trade: $30(3%)   
+- Pips value :  
+- Pair: EURUSD
+
+Lot traded = $30/(30 x $1) = 1   
+
+=> Take:
+- 1 trade with lot 0.1 
+- 3 trades with 0.03 lot size each
+
+USE : https://www.myfxbook.com/forex-calculators/position-size 
    
+
+
+
 #### Enter ON STOP - Entry Option:
-- STOP Order1: Place BUY/SELL STOP ORDER a small distance (2-3 pips) beyond/above the high/low of the Pin Bar (knowing that the price has moved in the direction of profit before placing the trade).
-- STOP Order2: Place SELL/BUY STOP ORDER a small distance (30%) beyond/above the high/low of the Pin Bar (in case of reversal)
-- Delete STOP order that is not triggered after price movement (Immediately)
+
+> Order1: Enter a BUY STOP ORDER 
+Place the order a small distance (2-3 pips) above the high of the Pattern (knowing that the price has moved in the direction of profit before placing the trade).
+
+> Order2: Enter a SELL STOP ORDER 
+Place the order a small distance (5 pips) beyond the low of the pattern (in case of reversal)
+
+> DELETE Order not triggered
+After ORDER1 or ORDER2 is triggered, Delete the other STOP order that is not triggered after price movement (Immediately)
 
 
-### Money Management - Conditions to enter (REASONS NOT to TRADE): 
-   * Enter on open of next bar after current pin bar
-   * Check daily, weekly, monthly drawdown => lot size calculation (generate SL, TP1,TP2 and TP3)
-   * Risk 3% of account balance per trade
-   * Minimum Risk/Reward ration 1:3 or greater
-   * ALWAYS WAIT FOR THE PREVIOUS DAILY CANDLE TO CLOSE
+#### JOURNAL the trade
+ 
 - Add new trade to journal : https://drive.google.com/drive/folders/1DYp9zuLJZ5bxZBdvmD7DJhnc7vrzpv3G?ogsrc=32 
 - Video record my trading decision process and review it after.
 - Take a screenshot of the trade at market CLOSE (BEFORE) in Trello: https://trello.com/b/Jj6QDSv2/trading-journal-2018
@@ -260,60 +316,22 @@ Validity of a Kangaroo Tail:
 
 ## 3. MANAGE A TRADE (Preservation of Capital)
 
-Upon +10 pips in profit => 
-- Move STOP LOSS to breakeven and repeat it every 20 pips
-- Enter another trade with bigger lot size (To increase PROFIT)
-
-Upon STOP LOSS =>
-- Close trade (To reduce LOSSES)
-
-### STOP LOSS
-Place a stop to cover your bases in case my predictions about where the price will go is completely wrong.  
-
-![STOPLOSS](https://github.com/zuluchaka/tradingplan/blob/master/stop_loss_place.png)
-
-
-
-### POSITION SIZE (Trade Size !!!!) - 
-
-Take the appropriate risk for the trade (Not too High, Not too Low). This is the number of lots (micro, mini or standard)
-
-- Account Risk (Account risk limit per trade): 10% weekly,  
-
-- Trade Risk: 3% per trade (Max 6 Daily trades). - Pips at risk on each trade:difference between ENTRY and STOP LOSS
-
-SL is 30 pips
-
-$ at risk = Pips at risk X Pips Value X Lots traded.     => Lots Traded = $ at risk / (Pips at risk X Pips Value)
-
-Example: 
-- Account size : $1k  ( account in USD)
-- $ at risk on trade: $30(3%)   
-- Pips value = 25 pips SL 
-Pair: EURUSD
-
-Lot traded = $30/(25 x $1) = 1.2   => Take:
-- 1 trade with lot 1.2 
-- 3 trades with 0.4 lot size each
-
-USE : https://www.myfxbook.com/forex-calculators/position-size 
-
-### TAKE PROFIT
-The most important thing to do as a trader. Not every trade is a winner. 
-#### Method1. TP at nearest Support/resistance zone inside previous bar range (Low Risk)
-#### Method2. TP at previous bars LOW or HIGH (Medium Risk, risk reward ration: should be minimum 1:1.5)
-#### Method3. TP at nearest insterest level outside previous bar range 
-#### Method4. Parabolic SAR: Hold Trade in Profit until the DOT of the Parabolic SAR appear in the reverse direction of the current trend
-
-### PARTIAL PROFIT:
-- Take 50% of profit at TP1
-- Take 75 - 100% profit at TP2 or TP3 (Only do this after moving STOP LOSS to BREAK EVEN)
-
 ### Trailing STOP LOSS
 
+> Upon +10 pips in profit
+- Move STOP LOSS to breakeven and repeat it every 20 pips
 
 
-### EXIT Signal
+### Cutting losing trades fast
+
+> CLOSE THE TRADE to reduce LOSSES
+- IF trade goes more than 60% against me after openining 
+- IF trade is at 25% closed to my STOP LOSS
+
+
+
+
+### EXIT / CONTINUATION Signals
 
 - Zone Exit (hit profit target or stop loss or breakeven).
 - 3-Bar Exit
@@ -321,15 +339,14 @@ The most important thing to do as a trader. Not every trade is a winner.
 - Take a screenshot of the trade (AFTER) in Trello: https://trello.com/b/Jj6QDSv2/trading-journal-2018
 - Update trade in Journal (https://drive.google.com/drive/folders/1DYp9zuLJZ5bxZBdvmD7DJhnc7vrzpv3G?ogsrc=32)
 
-
-### EXIT IF
+> EXIT TRADE IF
 - Volume is dropping in my move
 - Trade turns agains me and volume rises
 - Minimal price movement at 7.5 min
 
-### STAY IN IF
+> STAY IN TRADE IF
 - Volume is raising in my move
-- Trade turns agains me anf volume drops
+- Trade turns agains me and volume drops
 - Chart is moving strongly in my direction, supported by Volume
 
 
