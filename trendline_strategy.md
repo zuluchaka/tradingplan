@@ -110,6 +110,9 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
 - Trading System: 7 Reversal / Continuation Candlesticks Patterns
 
 * The DOJIs
+
+![DOJIS](https://github.com/zuluchaka/tradingplan/blob/master/dojis.png)
+
 * The Engulfing Patterns
 * The Piercing Line and Dark Cloud Patterns
 * The Haramis Pattern
