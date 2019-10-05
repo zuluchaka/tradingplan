@@ -105,6 +105,63 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
  - Look at the ForexTrack application for Currency Strength Analysis: https://tracking.csa5steps.com/
 
 
+### IDENTIFY TRENDLINES (The LEVELS)
+
+> In a TRENDING MARKET: 
+
+Draw Trendlines on multiple timeframes(TOP DOWN ANALYSIS):
+
+- MONTHLY (RED)
+- WEEKLY(BLUE)
+- DAILY(VERT)
+- 4H (PUPLE)
+- 1H (ORANGE)
+
+Identify and Connect obvious PEAKS and TROUGHS, drawing outer trendlines.
+The 2  significant LOWS/PEAKS where the trendline is drawn from must be obvious and easy to identify - LOW1/PEAK1 and LOW2/PEAK2.
+
+> In a RANDING MARKET:
+
+  * Market moves horizontally between key support and resistance levels
+
+- A Trendline is VALID as long as it is not intersected SIGNIFICANTLY and Price continues to obey it. 
+
+- A Trendline is INVALID when it is interesected SIGNIFICANTLY (THe trend has probably changed) - 
+  Verify if the candlestick that interstected the trendline closed ABOVE or BELOW it on 1H and 4H chart
+
+### Identify Support and Resistance Levels (The LEVELS): 
+
+Retracement move respects previous swing point (support or resistance level) => Next Impulse Move
+
+- Switch to DAILY LINE CHART: Draw  Major & Minor (INTRA) Support & Resistance Zones
+
+ * look for DOUBLE BOTTOM : MAJOR SUPPORT + MAJOR SUPPORT TRENDLINE
+ * look for DOUBLE TOP: MAJOR RESISTANCE + MAJOR RESISTANCE TRENDLINE
+  
+
+
+### REVERSAL PATTERN : Kangaroo Tail (The SIGNAL)
+
+To take a trade on 4H chart, make sure that the DAILY chart and WEEKLY chart align (TOP DOWN ANALYIS).
+
+Validity of a Kangaroo Tail:
+
+* The long wick should be at least 2-3 times the length of the body of the candlestick
+* The body should be larger than previous bars range
+* The body should be present towards either the upper or lower extreme of the Pin Bar
+* The wick should stand out when compared to previous bars (with room to the left)
+* Pin Bar will affect immediately following 4-5 bars
+* Pin Bar should print at a Support and Resistance:
+ ** Candle rejection: The wick touches the support/resistance but the body don't
+ ** Ideally at the end of an impulsive move and may indicate the beginning of a reversal price momentum
+* Pin Bar that appear/close in direction of the Trend
+ ** IF UPTREND then BULLISH Pin Bar closes higher than the open.
+ ** IF DOWNTREND then BEARISH Pin Bar closes lower than the open.
+* Wait for a Pinn Bar to occur after a PullBack to support or resistance level (end of retracement move)
+Avoid Pin Bar that doesn't show a price rejection evidence
+
+
+
 ### MARKET ANALYSIS - Technical Analysis  - TRENDLINE ANALYSIS
 
 ##### Trading System: 7 Reversal / Continuation Candlesticks Patterns
@@ -141,47 +198,7 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
 ![RAILWAYTRACK](https://github.com/zuluchaka/tradingplan/blob/master/bullishrailwaytrack.png)
 
 
-### Identify TrendLines (The LEVELS)
 
-- In a TRENDING MARKET: Draw it on MONTHLY, WEEKLY, DAILY, 4h and 1H Chart (Multi Timeframe Analysis) - different colors
-  * Identify and Connect obvious PEAKS and TROUGHS, drawing outer trendlines.
-  * The 2  significant LOWS/PEAKS where the trendline is drawn from must be obvious and easy to identify - LOW1/PEAK1 and LOW2/PEAK2
-- In a RANDING MARKET:
-  * Market moves horizontally between key support and resistance levels
-
-- A Trendline is VALID as long as it is not intersected SIGNIFICANTLY and Price continues to obey it. 
-- A Trendline is INVALID when it is interesected SIGNIFICANTLY (THe trend has probably changed) - Verify if the candlestick that interstected the trendline closed ABOVE or BELOW it on 1H and 4H chart
-
-### Identify Support and Resistance Levels (The LEVELS): 
-
-Retracement move respects previous swing point (support or resistance level) => Next Impulse Move
-
-- Switch to DAILY LINE CHART: Draw  Major & Minor (INTRA) Support & Resistance Zones
-
- * look for DOUBLE BOTTOM : MAJOR SUPPORT + MAJOR SUPPORT TRENDLINE
- * look for DOUBLE TOP: MAJOR RESISTANCE + MAJOR RESISTANCE TRENDLINE
-  
-
-
-### REVERSAL PATTERN : Kangaroo Tail (The SIGNAL)
-
-To take a trade on 4H chart, make sure that the DAILY chart and WEEKLY chart align (TOP DOWN ANALYIS).
-
-Validity of a Kangaroo Tail:
-
-* The long wick should be at least 2-3 times the length of the body of the candlestick
-* The body should be larger than previous bars range
-* The body should be present towards either the upper or lower extreme of the Pin Bar
-* The wick should stand out when compared to previous bars (with room to the left)
-* Pin Bar will affect immediately following 4-5 bars
-* Pin Bar should print at a Support and Resistance:
- ** Candle rejection: The wick touches the support/resistance but the body don't
- ** Ideally at the end of an impulsive move and may indicate the beginning of a reversal price momentum
-* Pin Bar that appear/close in direction of the Trend
- ** IF UPTREND then BULLISH Pin Bar closes higher than the open.
- ** IF DOWNTREND then BEARISH Pin Bar closes lower than the open.
-* Wait for a Pinn Bar to occur after a PullBack to support or resistance level (end of retracement move)
-Avoid Pin Bar that doesn't show a price rejection evidence
 
 
 ### CONFLUENCE - Indicators Used for Confirmation (Focus on QUALITY SETUPS)
