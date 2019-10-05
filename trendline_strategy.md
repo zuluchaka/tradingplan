@@ -177,19 +177,19 @@ Add Exponential Moving Averages to Chart : EMA20, EMA50 and EMA200
 
 Validity of a Kangaroo Tail:
 
->>  The long wick should be at least 2-3 times the length of the body of the candlestick
->> The body should be larger than previous bars range
->> The body should be present towards either the upper or lower extreme of the Pin Bar
->> The wick should stand out when compared to previous bars (with room to the left)
->> Pin Bar will affect immediately following 4-5 bars
->> Pin Bar should print at a Support and Resistance:
->> Candle rejection: The wick touches the support/resistance but the body don't
->> Ideally at the end of an impulsive move and may indicate the beginning of a reversal price momentum
->> Pin Bar that appear/close in direction of the Trend
->> IF UPTREND then BULLISH Pin Bar closes higher than the open.
->> IF DOWNTREND then BEARISH Pin Bar closes lower than the open.
->> Wait for a Pinn Bar to occur after a PullBack to support or resistance level (end of retracement move)
->> Avoid Pin Bar that doesn't show a price rejection evidence
+>- The long wick should be at least 2-3 times the length of the body of the candlestick
+>- The body should be larger than previous bars range
+>- The body should be present towards either the upper or lower extreme of the Pin Bar
+>- The wick should stand out when compared to previous bars (with room to the left)
+>- Pin Bar will affect immediately following 4-5 bars
+>- Pin Bar should print at a Support and Resistance:
+>- Candle rejection: The wick touches the support/resistance but the body don't
+>- Ideally at the end of an impulsive move and may indicate the beginning of a reversal price momentum
+>- Pin Bar that appear/close in direction of the Trend
+>- IF UPTREND then BULLISH Pin Bar closes higher than the open.
+>- IF DOWNTREND then BEARISH Pin Bar closes lower than the open.
+>- Wait for a Pinn Bar to occur after a PullBack to support or resistance level (end of retracement move)
+>- Avoid Pin Bar that doesn't show a price rejection evidence
 
 ![HAMMER](https://github.com/zuluchaka/tradingplan/blob/master/hammer.png)
 ![SHOOTINGSTAR](https://github.com/zuluchaka/tradingplan/blob/master/shootingstar.png)
