@@ -107,9 +107,9 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
 
 ### MARKET ANALYSIS - Technical Analysis  - TRENDLINE ANALYSIS
 
-- Trading System: 7 Reversal / Continuation Candlesticks Patterns
+##### Trading System: 7 Reversal / Continuation Candlesticks Patterns
 
-* The DOJIs
+> The DOJIs
 
 ![DOJIS](https://github.com/zuluchaka/tradingplan/blob/master/dojis.png)
 
