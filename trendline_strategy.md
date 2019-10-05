@@ -360,6 +360,8 @@ After ORDER1 or ORDER2 is triggered, Delete the other STOP order that is not tri
 
 ## TRADING JOURNAL
 
+https://drive.google.com/drive/folders/1DYp9zuLJZ5bxZBdvmD7DJhnc7vrzpv3G?ogsrc=32 
+
 - Price ENTRY
 - Price Exit
 - Time Entered
