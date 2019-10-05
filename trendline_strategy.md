@@ -113,12 +113,32 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
 
 ![DOJIS](https://github.com/zuluchaka/tradingplan/blob/master/dojis.png)
 
-* The Engulfing Patterns
-* The Piercing Line and Dark Cloud Patterns
-* The Haramis Pattern
-* The Hammer and Shooting Star
-* The Spinning Tops
-* The Railway Track Patterns
+> The Engulfing Patterns
+
+![ENGULFINGS](https://github.com/zuluchaka/tradingplan/blob/master/engulfings.png)
+
+> The Piercing Line and Dark Cloud Patterns
+
+![PIERCINGLINE](https://github.com/zuluchaka/tradingplan/blob/master/piercingline.png)
+
+> The Haramis Pattern
+
+![HARAMI](https://github.com/zuluchaka/tradingplan/blob/master/bullishharami.png)
+
+
+> The Hammer and Shooting Star
+
+![HAMMER](https://github.com/zuluchaka/tradingplan/blob/master/hammer.png)
+![SHOOTINGSTAR](https://github.com/zuluchaka/tradingplan/blob/master/shootingstar.png)
+
+
+> The Spinning Tops
+
+![SPINNINGTOPS](https://github.com/zuluchaka/tradingplan/blob/master/spinningtop.png)
+
+> The Railway Track Patterns
+
+![RAILWAYTRACK](https://github.com/zuluchaka/tradingplan/blob/master/bullishrailwaytrack.png)
 
 
 ### Identify TrendLines (The LEVELS)
