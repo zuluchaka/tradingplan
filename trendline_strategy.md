@@ -158,14 +158,19 @@ The 2  significant LOWS/PEAKS where the trendline is drawn from must be obvious 
   >>- Verify if the candlestick that interstected the trendline closed ABOVE or BELOW it on 1H and 4H chart 
   >>- Verify the length of the candlestick that closed ABOVE the downward trendline or BELOW the upward trendline 
   >>- Verify the close on 1H and 4H chart
+  >>- When a trendline becomes INVALID change it to dotted lines ( ------) KEEP it on chart if less than 40 pips away.
   
   
-> Will The Trendline HOLD or Not?
+> STRONG and WEAK Trendlines (Will it HOLD)?
 
-
+- Strength of the Trendline = number of times price touches the trendline and obeys it (more than once)
+- Steepness (slope) of the Trendline: Strong trendlines are gently sloping trendlines (steeply sloping is unreliable)
 
 > Mistakes to avoid when drawing Trendlines
 
+>>- Drwaing trendlines through an obstruction between points 1 and 2 (touches candlestick bodies)
+>>- Not drawing a new Trendline and keeping INVALID trendlines 
+>>- Drawing trendlines not touching peaks and toughs(lines MUST TOUCH) - Avoid Missing trades
 
 
 ### IDENTIFY SUPPORT and RESISTANCE LEVELS 
