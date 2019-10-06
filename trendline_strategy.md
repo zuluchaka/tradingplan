@@ -64,11 +64,7 @@ DEMO trading Accouts:
 
 
 
-## 1. IDENTIFY A TRADE
-
-
-
-### MARKET ANALYSIS - Trendline Analysis 
+## 1. MARKET ANALYSIS
 
 #### Timeframes
 TOPDOWN ANALYSIS:
@@ -201,6 +197,7 @@ Add Exponential Moving Averages to Chart : EMA20, EMA50 and EMA200
 > Dynamic Trendlines  
 
 
+## 2. IDENTIFY A TRADE
 
 ### MARKET ANALYSIS - Technical ANALYSIS
 
@@ -280,7 +277,7 @@ Validity of a Kangaroo Tail:
  
 
 
-## 2. EXECUTE A TRADE 
+## 3. EXECUTE A TRADE 
 
 
 
@@ -364,7 +361,7 @@ After ORDER1 or ORDER2 is triggered, Delete the other STOP order that is not tri
 
 
 
-## 3. MANAGE A TRADE (Preservation of Capital)
+## 4. MANAGE A TRADE (Preservation of Capital)
 
 ### Trailing STOP LOSS
 
