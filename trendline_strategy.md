@@ -131,6 +131,17 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
 ![RANGING](https://github.com/zuluchaka/tradingplan/blob/master/ranging.png)
 
 
+> Changing from UPTREND to DOWNTREND
+  - Pattern of successives HH HL is broken 
+  - a New Low that is LOWER than the previous LOW
+  - Signal of a possible Trend change
+  
+> Changing from DOWNTREND to UPTREND
+  - Pattern of successives LH LL is broken
+  - a New HIGH that is higher than the previous HIGH
+  - Signal of a possible change in the trend
+
+
 ### IDENTIFY TRENDLINES (The LEVELS)
 
 > Draw Trendlines on multiple timeframes(TOP DOWN ANALYSIS):
