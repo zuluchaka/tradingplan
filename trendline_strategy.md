@@ -106,6 +106,11 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
 
 ## TRENDLINE STRATEGY
 
+- Get in almost at the beginning of a new trend (UP or DOWN)
+- Get in almost at the beginning of a new Market Swing (TOP or BOTTOM)
+- Look at HOW MANY times the price reacted to TRENDLINES
+
+
 > BUY ENTRY SETUP
 
 ![BUY](https://github.com/zuluchaka/tradingplan/blob/master/buy_entry_setup.png)
@@ -117,6 +122,15 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
 
 
 ### IDENTIFY TRENDLINES (The LEVELS)
+
+> How to Draw a Trendline?
+
+- Step1: Identify obvious PEAKS and TROUGHS 
+- Step2: Outer Trendlines, from most significant PEAKS and TROUGHS in larger timeframes - 1H, 4H and upwards
+     * Connect a minimum of 2 PEAKS (or HIGHs) with a line from LEFT to RIGHT 
+     ![SELLEXPLE](https://github.com/zuluchaka/tradingplan/blob/master/sell_example.png)
+     * Connect a minimum of 2 TROUGHS (or LOWs) with a line from LEFT to RIGHT
+      ![BUYEXPLE](https://github.com/zuluchaka/tradingplan/blob/master/buy_example.png)
 
 > In a TRENDING MARKET: 
 
@@ -141,8 +155,14 @@ The 2  significant LOWS/PEAKS where the trendline is drawn from must be obvious 
 
 - A Trendline is INVALID when it is interesected SIGNIFICANTLY (The trend has probably changed) - 
   Verify if the candlestick that interstected the trendline closed ABOVE or BELOW it on 1H and 4H chart
-  
-  
+
+> Will The Trendline HOLD or Not?
+
+
+
+> Mistakes to avoid when drawing Trendlines
+
+
 
 ### IDENTIFY SUPPORT and RESISTANCE LEVELS 
 
