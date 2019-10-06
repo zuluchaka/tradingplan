@@ -153,9 +153,13 @@ The 2  significant LOWS/PEAKS where the trendline is drawn from must be obvious 
 
 - A Trendline is VALID as long as it is NOT intersected SIGNIFICANTLY and Price continues to obey it. 
 
-- A Trendline is INVALID when it is interesected SIGNIFICANTLY (The trend has probably changed) - 
-  Verify if the candlestick that interstected the trendline closed ABOVE or BELOW it on 1H and 4H chart
+- A Trendline is INVALID when it is interesected SIGNIFICANTLY (The trend has probably changed) 
 
+  >>- Verify if the candlestick that interstected the trendline closed ABOVE or BELOW it on 1H and 4H chart 
+  >>- Verify the length of the candlestick that closed ABOVE the downward trendline or BELOW the upward trendline 
+  >>- Verify the close on 1H and 4H chart
+  
+  
 > Will The Trendline HOLD or Not?
 
 
