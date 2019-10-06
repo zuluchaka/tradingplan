@@ -120,21 +120,24 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
 ![SELL](https://github.com/zuluchaka/tradingplan/blob/master/sell_entry_setup.png)
 
 
+## IDENTIFY CURRENT MARKET TREND (Price Direction)
+
+> UP TRENDING MARKET (HIGHER HIGHs, HIGHER LOWs)
+
+![UP](https://github.com/zuluchaka/tradingplan/blob/master/uptrend.png)
+
+> DOWN TRENDING MARKET (LOWER HIGHs, LOWER LOWs)
+
+![DOWN](https://github.com/zuluchaka/tradingplan/blob/master/downtrend.png)
+
+> RANDING MARKET:
+
+![RANGING](https://github.com/zuluchaka/tradingplan/blob/master/ranging.png)
+
 
 ### IDENTIFY TRENDLINES (The LEVELS)
 
-> How to Draw a Trendline?
-
-- Step1: Identify obvious PEAKS and TROUGHS 
-- Step2: Outer Trendlines, from most significant PEAKS and TROUGHS in larger timeframes - 1H, 4H and upwards
-     * Connect a minimum of 2 PEAKS (or HIGHs) with a line from LEFT to RIGHT 
-     ![SELLEXPLE](https://github.com/zuluchaka/tradingplan/blob/master/sell_example.png)
-     * Connect a minimum of 2 TROUGHS (or LOWs) with a line from LEFT to RIGHT
-      ![BUYEXPLE](https://github.com/zuluchaka/tradingplan/blob/master/buy_example.png)
-
-> In a TRENDING MARKET: 
-
-Draw Trendlines on multiple timeframes(TOP DOWN ANALYSIS):
+> Draw Trendlines on multiple timeframes(TOP DOWN ANALYSIS):
 
 - MONTHLY (RED)
 - WEEKLY(BLUE)
@@ -145,9 +148,16 @@ Draw Trendlines on multiple timeframes(TOP DOWN ANALYSIS):
 Identify and Connect obvious PEAKS and TROUGHS, drawing outer trendlines.
 The 2  significant LOWS/PEAKS where the trendline is drawn from must be obvious and easy to identify - LOW1/PEAK1 and LOW2/PEAK2.
 
-> In a RANDING MARKET:
+> How to Draw a Trendline?
 
-  * Market moves horizontally between key support and resistance levels
+- Step1: Identify obvious PEAKS and TROUGHS 
+- Step2: Outer Trendlines, from most significant PEAKS and TROUGHS in larger timeframes - 1H, 4H and upwards
+     * Connect a minimum of 2 PEAKS (or HIGHs) with a line from LEFT to RIGHT 
+     ![SELLEXPLE](https://github.com/zuluchaka/tradingplan/blob/master/sell_example.png)
+     * Connect a minimum of 2 TROUGHS (or LOWs) with a line from LEFT to RIGHT
+      ![BUYEXPLE](https://github.com/zuluchaka/tradingplan/blob/master/buy_example.png)
+
+
 
 > VALIDITY of a TRENDLINE
 
