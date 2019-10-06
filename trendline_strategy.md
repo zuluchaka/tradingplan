@@ -104,6 +104,17 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
  
  - Look at the ForexTrack application for Currency Strength Analysis: https://tracking.csa5steps.com/
 
+## TRENDLINE STRATEGY
+
+> BUY ENTRY SETUP
+
+![BUY](https://github.com/zuluchaka/tradingplan/blob/master/buy_entry_setup.png)
+
+> SELL ENTRY SETUP
+
+![SELL](https://github.com/zuluchaka/tradingplan/blob/master/sell_entry_setup.png)
+
+
 
 ### IDENTIFY TRENDLINES (The LEVELS)
 
