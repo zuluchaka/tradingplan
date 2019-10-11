@@ -176,6 +176,10 @@ The 2  significant LOWS/PEAKS where the trendline is drawn from must be obvious 
   >>- Verify the length of the candlestick that closed ABOVE the downward trendline or BELOW the upward trendline 
   >>- Verify the close on 1H and 4H chart
   >>- When a trendline becomes INVALID change it to dotted lines ( ------) KEEP it on chart if less than 40 pips away.
+  >>- REMOVE An INVALID Trendline if:
+   - 5 Min Timeframe: breached by 5-10 pips
+   - 1H Timeframe: breached by 20-40 pips
+   - 4H Timeframe: breached by 40-60 pips
   
   
 > STRONG and WEAK Trendlines (Will it HOLD)?
