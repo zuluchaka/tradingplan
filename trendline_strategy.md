@@ -137,7 +137,7 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
   - Signal of a possible Trend change
   
 > Changing from DOWNTREND to UPTREND
-  - Pattern of successives LH LL is broken
+  - Pattern of successives LH LL (end of downtrend) or HH HL (end of uptrend) is BROKEN
   - a New HIGH that is higher than the previous HIGH
   - Signal of a possible change in the trend
 
