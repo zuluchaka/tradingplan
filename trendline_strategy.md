@@ -142,7 +142,10 @@ Open 3-Charts Layout screen for the currency pair to trade (1H, 4H, and Daily) t
   - a New HIGH that is higher than the previous HIGH
   - Signal of a possible change in the trend
 
-
+ >>- Trend Change Example:
+  
+   ![TRENDCHANGEEXPLE](https://github.com/zuluchaka/tradingplan/blob/master/trendchangeexple.png)
+  
 ### IDENTIFY TRENDLINES (The LEVELS)
 
 > Draw Trendlines on multiple timeframes(TOP DOWN ANALYSIS):
