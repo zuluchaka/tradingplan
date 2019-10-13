@@ -335,7 +335,7 @@ Take the appropriate risk for the trade (Not too High, Not too Low). This is the
 
 > Trade Risk: 3%  (Max 6 Daily trades). 
 
-> SL is 30 pips
+> SL is 20-30 pips
 
 > Calculation of the AMOUNT at risk on the trade
 
@@ -360,6 +360,8 @@ USE : https://www.myfxbook.com/forex-calculators/position-size
 
 
 #### Enter ON STOP - Entry Option:
+
+> Aggressive Entry: Immediately on the close (WAIT FOR THE CLOSE) of the candlsetick touching the trendline - MARKET EXECUTION
 
 > Order1: Enter a BUY STOP ORDER 
 Place the order a small distance (2-3 pips) above the high of the Pattern (knowing that the price has moved in the direction of profit before placing the trade).
