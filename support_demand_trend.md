@@ -220,6 +220,14 @@ Add Exponential Moving Averages to Chart : EMA20, EMA50 and EMA200
 
 Identify a Bank or FI move with following characteristics:
 > Move is Strong and Quick
+> Candle size out of the zone are Big
+> There is a Breakout of Previous resistance
+> The zone is fresh (first touch)
+> Minimum 1:2 Risk Reward ratio from the Zone
+> Golden Zone (holding the 61.8% Fib Ratio)
+
+>> Draw the basing Candle
+>> Wait for the Confirmation Signal Pattern
 
 
 ## 2. IDENTIFY A TRADE
