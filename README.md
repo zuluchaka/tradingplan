@@ -15,8 +15,6 @@
 
 My current GOAL is to:
 - Improve my family lifestyle
-- Payoff my existing debts completely
-- Afford Family vacations
 - Reinvest
 
 ## 2019 GOAL
@@ -41,7 +39,7 @@ I will spend  1h per day for my FOREX trading charts ANALYSIS (23h-00h) - From M
 
 ## Funds commitment
 
-I will invest additional 500 CHF every month in a trading Account:
+I will invest additional money every month in a trading Account:
 - Broker Swissquote: 
   * Account 622021, Leverage 1:100
 - Broket IC Markets:
